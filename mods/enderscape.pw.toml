@@ -1,0 +1,8 @@
+name = "Enderscape"
+filename = "enderscape-neoforge-2.1.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://files.ascpial.fr/engineers-land/gunivers/enderscape-neoforge-2.1.0%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "9d8d615052c98b5f400d93a8dc193cc5dae59bb34f468812767b554d0c0e9ca8"

@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector-2.0.0-beta.14+1.21.1-full.pw.toml"
-hash = "0d34fd3ea9843a38da24766d0a263e29d8f84e0aed88e27beb8f7c52ac341bb5"
+hash = "3e4f5ad5622a6002131904f27cd5232768dd9575db4d84441180277ab2b1808c"
 metafile = true
 
 [[files]]
@@ -437,9 +437,17 @@ hash = "71a068d405e20f395d8ad43c5cd0ed6f92f9be340e029fd4a5ef0ff82bb2811f"
 metafile = true
 
 [[files]]
-file = "mods/enderscape-neoforge-1.0.9+mc1.21.1.pw.toml"
-hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+file = "mods/enderscape-neoforge-2.1.0+mc1.21.1.jar"
+hash = "9d8d615052c98b5f400d93a8dc193cc5dae59bb34f468812767b554d0c0e9ca8"
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "5c53437a2a927521b266bda97df2677bd052db6c6059a0bfb604c0fd245beec2"
 metafile = true
+
+[[files]]
+file = "mods/enderscapesablecompat-1.0.0.jar"
+hash = "16444b75296b03c3e9ef46dd05806521c1fa3ce68ccd0618de5124ee9c4d397e"
 
 [[files]]
 file = "mods/endersdelight-1.3.0.pw.toml"
@@ -548,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/mods-voxy-0-2-15-beta-ff9b80ac96b030b21af3e868c1255e0ca9737ec7-jar.pw.toml"
-hash = "0f5eb3f504dab475930fbda80fd493e83bb2caa58160db097d043b03433c4905"
+hash = "9327fd47870d129c86371e65e228154d19d352cd92a0c194b9a0d06c79ea05b8"
 metafile = true
 
 [[files]]
