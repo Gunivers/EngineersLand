@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+
+# Eclude Github CI
+/.github
