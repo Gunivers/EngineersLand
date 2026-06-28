@@ -1,6 +1,4 @@
 version:3955
-resourcePacks:["vanilla","fabric","mod_resources","file/more_vents"]
-incompatibleResourcePacks:["file/more_vents"]
 tutorialStep:none
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown

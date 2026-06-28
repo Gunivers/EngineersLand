@@ -1,0 +1,7 @@
+{
+  "selector": "tfmg:oil_deposit",
+  "priority": 2000,
+  "properties": {
+    "sable:mass": 1000.0
+  }
+}

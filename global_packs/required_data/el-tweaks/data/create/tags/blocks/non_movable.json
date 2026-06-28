@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "molten_vents:active_molten_galena",
+      "required": false
+    }
+  ]
+}

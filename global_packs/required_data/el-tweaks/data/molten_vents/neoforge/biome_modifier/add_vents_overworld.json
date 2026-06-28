@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": ["molten_vents:galena_vent", "molten_vents:aquatic_galena_vent"],
+  "step": "vegetal_decoration"
+}
