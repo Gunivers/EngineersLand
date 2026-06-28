@@ -1,0 +1,13 @@
+name = "Voxy"
+filename = "voxy-0.2.15-beta-ff9b80ac96b030b21af3e868c1255e0ca9737ec7.jar"
+side = "client"
+
+[download]
+url = "https://files.ascpial.fr/engineers-land/gunivers/voxy-0.2.15-beta-ff9b80ac96b030b21af3e868c1255e0ca9737ec7.jar"
+hash-format = "sha256"
+hash = "44947b3e451893610b070442218af8bf3499cd86058a9a90baaf8f691d87871a"
+
+[option]
+optional = true
+default = false
+description = "Affichage d'une render distance extrêmement grande. Instable et coûteux en ressources."
