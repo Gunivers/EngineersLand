@@ -1,0 +1,13 @@
+name = "Fix Tfmgcontroller"
+filename = "fix_tfmgcontroller-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cw6mCflO/versions/xImgSaKL/fix_tfmgcontroller-1.0.3.jar"
+hash-format = "sha512"
+hash = "13974b861a218a6d250071977e0dd0998063d9952e79f355fba5c24e75a4d08218ce1907a7009dcd8b8b64f9773c4197817b0d94eaeeb4791da488af8d09a8ed"
+
+[update]
+[update.modrinth]
+mod-id = "Cw6mCflO"
+version = "xImgSaKL"

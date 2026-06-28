@@ -1,0 +1,13 @@
+name = "Tfmgfixfuel"
+filename = "tfmgfixfuel-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JHWnRy4b/versions/8ogIbLtu/tfmgfixfuel-1.0.5.jar"
+hash-format = "sha512"
+hash = "10d117ad5f36d10746155b73cb7f061ad5ac7c41ded488ae83121e59f320a6ab8c219c36695f9e0c47377373d131c99e07c2aed7f7f8fcf27002a67276c6c9b0"
+
+[update]
+[update.modrinth]
+mod-id = "JHWnRy4b"
+version = "8ogIbLtu"

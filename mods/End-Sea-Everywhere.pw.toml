@@ -1,0 +1,13 @@
+name = "End Sea Everywhere"
+filename = "End-Sea-Everywhere.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AT9XwofL/versions/rAyPK3II/End-Sea-Everywhere.jar"
+hash-format = "sha512"
+hash = "ec49b896947ff9639d1d1bb3504517045f1223cd0672ac8b4f95acbd8b477618f7ec338bafd3de629ac783b152ba04ce1ff3d8c44d011b4b21b2ee868441e54e"
+
+[update]
+[update.modrinth]
+mod-id = "AT9XwofL"
+version = "rAyPK3II"

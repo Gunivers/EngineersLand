@@ -1,0 +1,16 @@
+name = "EngineersLand"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f2b15fd3b26c50d9fdd35c17c4cd5a70dab8f74deba0648d9c71980233a5a591"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
+
+[options]
+acceptable-game-versions = ["1.21.1"]
+datapack-folder = "datapacks"
