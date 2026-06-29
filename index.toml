@@ -9,6 +9,14 @@ file = "configureddefaults/config/analogaudio/analogaudio.server.toml"
 hash = "2196e5c019054717840e047a95851efac8ad6a1d0e2687e2c2ec5afd5415aace"
 
 [[files]]
+file = "configureddefaults/config/biome_replacer.properties"
+hash = "738a406a107c81d7e357c071e1f26222d6616753e994f6a2177aa488faa995c7"
+
+[[files]]
+file = "configureddefaults/config/custom-mob-spawns.json"
+hash = "ffed7532f5a3acc7935a65bb8200f9f71f504d35b730393061a9ff97a08535a8"
+
+[[files]]
 file = "configureddefaults/config/dynamiccrosshair.json5"
 hash = "412066a69288a585f9a100b4082e3d6c6cbcfd38d383b7c4799ad255fc187727"
 
@@ -93,6 +101,58 @@ file = "configureddefaults/config/sounds/ui.json"
 hash = "d48ffa076a8e1fe0de0bbc61c338d0e56c44ef1328276efe084ad0f4b0686c79"
 
 [[files]]
+file = "configureddefaults/config/structurify.json"
+hash = "9f39c362dbe2330f418aae2b980541b7d69d0702381687a85cc10109696f0f48"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-01_14-40-36.json"
+hash = "04f32789ba2e08b4d0cb0b019d59a669170e58a51fcdc33dc63ad4b1d415a914"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-01_14-41-01.json"
+hash = "d82642ace22e49fdba6d00d53241dfc2901ad52d04feed38446aa1cd2a77cbd9"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-01_14-41-17.json"
+hash = "8f5db12d2f9efa43cb24de3c5dc7ecb5189fdeee81a3d8a35e59c0b65b53f7d0"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-01_14-41-41.json"
+hash = "58b39e07b5c0f5659da65d1cd296b1c5a9cc4afab356a0e39738c0df920cc321"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-01_14-41-48.json"
+hash = "2476888bd7e71023c3778af02ab2bc4e984b6c61136c1c37ed2e088b6927eb10"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-07_15-34-45.json"
+hash = "032e58e92c0eef7b1fb9edb9978dd594f95fbd78677c27e5dbf3b1ed2b3ce0e3"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-07_17-30-44.json"
+hash = "2434f77b21fcf550c61dc78c99f41b0912db3df1e0946b53360e9194d8bf15e7"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-07_17-34-25.json"
+hash = "fd97d1b9a5d5027f3c0e96b407d12b4a4d9c8a145baf2e0d3de19e4d1cf1c546"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-10_10-56-59.json"
+hash = "ac6c500f6b0c35ae84c76a6cfda957383454b465f822f0cfcfe2cd9e907e0db1"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-10_17-24-44.json"
+hash = "7c3da82b454315232c7546514bc006bbf39d9173f382339956822758d5853416"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-10_18-31-54.json"
+hash = "7e86d201d08961c075c5c2308b71db7eef5f4d0fcd112c74ccaa1c3027dd1874"
+
+[[files]]
+file = "configureddefaults/config/structurify/structurify_backup_2026-05-12_15-52-27.json"
+hash = "e2eefa7ea7f1dc3dc70c374124cecc31fe4c7a5b7a27f033cd9fd59920d5ebcb"
+
+[[files]]
 file = "configureddefaults/fancymenu_data/action_favorites.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -123,6 +183,474 @@ hash = "4f886ee94f52918915f1905281bcff161f2b00a4fbb248c393be586f2313e91f"
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "90c83348e9ccd2b2819e2556baf30a30e50300d4bb0866ae414c2781472157c3"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/0.png"
+hash = "233bbe41e8dc533f9099660b517e7ae63f8a56a3f9b233409565d390af45049b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/1.png"
+hash = "8339e1763ef7b0541a32258429647e6b3464bcf5be88d9d16606ea3fd56a1e55"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/10.png"
+hash = "a8dd68970eef64429baf98f20f74640a3e84ac5886dbd6413fb145a3da2962e0"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/11.png"
+hash = "540cb060c78289f17073dc69b40d65aa0eaebc613fe6ee3c618d4834d6036968"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/12.png"
+hash = "f166e4976cd16be1848bf93845b833b54cd1b81c1fc7ac08e7e50ade8dcbb760"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/13.png"
+hash = "ef6f08a1caec9841813ada3aca724fbc5af7a6b72671891166cea1bc0fa9b900"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/14.png"
+hash = "f20d4eb3f33779bcf2b01280149291041d9cc517053e90b453ec90dbc9425702"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/15.png"
+hash = "77b7ee856618471460809b0a59cbc0fe0454a48d326048e2dc26831b912c7f43"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/16.png"
+hash = "1f38573c09de256b5e5ba98488c94dc5e76fa59efa323e48c6bb131686b914ee"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/2.png"
+hash = "759336b8222c37716c6ec4e69e016acb6e7e79cc690c8ef752e3488e8acd1a1b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/3.png"
+hash = "d057bc3f4f7c0c91410e3b12562fa08ba47e84bf22c90e4711d8657cbfaaf5a8"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/4.png"
+hash = "6777d29696540c0cc8a6eaa4ae8378e564354f71247109fae6d7d164d854c21e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/5.png"
+hash = "a1624787cbba5a3b694051dd72dc94829752d4f04b969ffc45cf2591826ac33b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/6.png"
+hash = "cf13f6a34fc05bcbc8b859ddf68d79684f12319bc0e81e824493071fb49ea711"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/7.png"
+hash = "732e36c2b507a8e5a33b29d8fba4beba11df447ab9bee3653ee2d2fe8c2f7471"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/8.png"
+hash = "47244637e08867aa366ff8dd8597e04f3c8b32020123b85226cc9077c777fa6f"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/9.png"
+hash = "79d810b7b0837f2c53dc848e75a90efae72363462f7067f744955c3afbd3108e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/basalt/basalt.properties"
+hash = "44c63cf53bd2b7abdfaab412652b89ca26e840709eedc14deae952d3efa0b896"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/0.png"
+hash = "bc14d233dafe442ebd049ec69dcb799df28e14e7c76f52acd5e48e75fd4c4e70"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/1.png"
+hash = "2cb9674f2d66a92f1a352c8d421df1ac9da9552627af073f0d5c4396bc2075d6"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/10.png"
+hash = "55fa6ad786c65dce569b552806be3f082823c739b0f5377b72756afc81c1f7af"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/11.png"
+hash = "beb7f9eafc56a2acf388d0d7cd39ff79f82352fce1833589fb29f6d21419bc4d"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/12.png"
+hash = "8db8367c1b9d097971e3bcb49c2abcdf2e8053670a7e271d8d84f5a04eb6bcef"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/13.png"
+hash = "3794e382c1cbe481e1d16d4348955cb142d5370e2b338b85adfea35f889d7714"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/14.png"
+hash = "6128c13a049a7c278fd0da422b08d7c12cb5e1c119c5bd2de744937af21c03ba"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/15.png"
+hash = "eac2e6bb49a2c60658784372924c8b3af18453fb9c3123956570e80df7ccf9e7"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/16.png"
+hash = "0af39e7d808c0caf8af23bac1c5b7bc832a66c94d84c17d7a3b14c3315d786a4"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/2.png"
+hash = "29b34901d37d4b2ca1076197cb3b3c8faa69b79ac05d6abd6838dad2b7f39193"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/3.png"
+hash = "d186fa851be309ca3b690c79d0d1aab3ee064e6e9d282f9c673b91f943b20c4c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/4.png"
+hash = "8155558ecd1239c2f60845b0231be7264826520c30941cce56349d45590444ec"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/5.png"
+hash = "a6c86495762d112a272631adee9bb602f5efe45fe3c1f2394138a2e706bb6328"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/6.png"
+hash = "495d15b9cec56bc4ceadbaa65a2fe91781a66effe62002739b508389ea2dd40c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/7.png"
+hash = "0d4be500f90f9baf940569cf7a33cbeeaa1c7b4055495bd573dcb8de4bc95416"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/8.png"
+hash = "1f4e748fd2914475e5d77a5630b1b81f678dd64759696ef713015d940e79248c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/9.png"
+hash = "5b9fccd7de1ed4c7140c466621ec4b01e8eab19a4164014593b5157ac417b7fd"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/assets/minecraft/optifine/ctm/_overlays/stone/stone.properties"
+hash = "8b3c0ccec32844cc6335cd002a05ca8bf325e94d4c666c29ec67a2923dead193"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/lithostitched/worldgen_modifier/cave_surface.json"
+hash = "99453f61db5b398ee11985be6ba9aa7ca467d752b059cc042bd802f65bc1f869"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/lithostitched/worldgen_modifier/ores/zinc_veins.json"
+hash = "91e0e95efd45b3fbbb8d975b14dd42f6081bbeec832107557d5b9d17fa4e6203"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/recipe/string_from_fibers.json"
+hash = "f17352896eecd1dc3772dd382c4506ad05ca6b8da6566cdb49b41b6b7f06496b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/item/fibers.json"
+hash = "d73159c2a6e1f2d018db1087da049286d871b784f5e52951a6cc12043771fa3a"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/cave.json"
+hash = "4a5c413190ef17ddb22b5c970f6ebaba0b7e163458df66909fe2eb46414dad79"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/cold.json"
+hash = "45e810bdb212b66b52fbd9bf8e2ab657edc821ac84299698590be6cd11296538"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/cold_barren.json"
+hash = "cbe47e513b0d59d969ad158fcb1e445fb94f7ddfed95be436e0172611211663e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/cold_vegetation.json"
+hash = "b3e42258ecdaf6213b74b9e251aedd547c88a34227b004de993e13e6c8f5899a"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/hot.json"
+hash = "c291106f478baefe0c731165db928e385ef81adc03efb06b8d94bf70f3041c91"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/lush.json"
+hash = "7065e1f5cd04773a765668fc4ee6f8b752d9ae907cc7b10446dc3548fd98ae5b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/plains.json"
+hash = "7d3cd6fb667b780294d8534043ba8dcedce2f258d72fa2a8c605b1205a165294"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/savanna.json"
+hash = "ca6eba20845074f0c673e39a6f7ee0af3f0e1e11c417f5eb32296b77dd1c4d2b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/swamp.json"
+hash = "7174617396d3dd39deccc287c0402754cb3e69dec4da6851adf65c3451a0ead6"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/tags/worldgen/biome/modifiers/presets/temperate.json"
+hash = "ae600a2a296e2570bdef67b1769a08b264fe74baec3c3e9d5f8d820e1b73792e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/worldgen/biome/fractured_jungle.json"
+hash = "42c1b6c3a4aec1edba1a9259eff3c36491a185057a1c78ffd2fa1168c2e6aa29"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/worldgen/configured_feature/jungle_pillar.json"
+hash = "d2acda43187ce400e1bf4b9cb7546b1dfeddc0b98f2c2bf7189cb8fadc8b3d63"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/worldgen/placed_feature/jungle_pillar.json"
+hash = "bb85cf761eefa10daf3c69df80db0e5f6486393ef6b57d58ac1c1298d2b3b19a"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/aeroscapes/worldgen/placed_feature/ores/ore_zinc_extra.json"
+hash = "05f1eabd9e6ce5326748a44d7d1392738d71715544ed0f9f9193bbc468995b92"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/create/worldgen/placed_feature/striated_ores_overworld.json"
+hash = "fe9861458739d51c6e6cd525f6201fd0cf1cf2f4844c41834aa7a5f967a0d6f9"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/create/worldgen/placed_feature/zinc_ore.json"
+hash = "83c2ab23d7dd91266082958f5e242540d0252ff12884007b911e39171f526176"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/minecraft/structures/end_city/ship.nbt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "3ba010529d481ca92ca95222f9fa0a327b1b2f6c2cdb8efe528f435f040f337e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/data/simulated/end_sea/overworld.json"
+hash = "0e47fa104131a001a3457a71e4ff22e1ecfe1a0035bacfe4d3eb589d67cb1d64"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/pack.mcmeta"
+hash = "3d93ec8932f994fbb3e94caff633bae657fe7252ab680dd1bcf310b6df3b4caf"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Extras/pack.png"
+hash = "c4acd85cb77374f770c5d5054d1f676c1d22724d80bd7f09af40fa98ac9ba4ce"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_bee_keeper.json"
+hash = "9544908ffbf34e620ed532841bf37282b68cda4d55742db27d6a267371c457b0"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_big_remnant.json"
+hash = "4291b3a9acddf058b27546a0ab0af9a50b15dd2d40559ac0c2cba151e8efc099"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_big_remnant_2.json"
+hash = "e864674298c361c5693e8db48035a1834612d69c10b4628d65d188c47682e769"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_big_remnant_3.json"
+hash = "04fe38c41ba4c8a7cfa58c8994d94cd0efe039d616d4b7086401576c447c5c6b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_desert_remnant.json"
+hash = "7ff8f646a01cce67035d99f122b8675e7b793994cc1f4f94769e58ed34be1365"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_forest_smith.json"
+hash = "e2803dd3459db528d57ad69cee56599245df2c0ebe45116b48b45c9c7f5bf9e8"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_frog_ranch.json"
+hash = "8a39bd2b4cf7840cc6ead44c70a5d44a54fbe8af6e97cf950f314eabd0056e6a"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_medium_remnant.json"
+hash = "a87b730523c2f7f5850e6f8eb6d59f270e9ab53aab5ab9d2d40e8f532cadd515"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_medium_remnant_2.json"
+hash = "dc9a3ac27e4c0d2184bf25b27b050b67a649fe24f04e577619b3ebb404c979cc"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_miner_hut.json"
+hash = "fe6a0d8b3b26cc813560b3032fe4e60a901b1852731c798d882a73f2b9f97003"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_mud_brick_constructor.json"
+hash = "8fc1056e6b31263652e81e4b430a78984b08dea0611efe39e85d01e27db7ff3c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_ruin_farmer.json"
+hash = "2a58fda2b84fd9b582669e7e603c4aea48e9b22418c78db3a9e7be87033f9c7a"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_ruin_smith.json"
+hash = "901cb364c5087e6ce5eef1ec9f771b10704da06878a87ffe626993e5ccb3c35c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_sawmill.json"
+hash = "397bce3eb89ebcacecf1f545258b36a99bc2cb42d1634deabeaefe5132967d7e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_school_remnant.json"
+hash = "b2e689b7fbc9d14be77c0d4c590dddf49ec926874cdea81a11904da970a9576e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_taiga_castle.json"
+hash = "9b91f133d30bc01ced48ed9e5d21367ed04c1b3c8d016fb464e83bfb544cb2d3"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_woodland_hud.json"
+hash = "498ff38bc8a31e0e440bfb3d7b7455cee649869987ba08c657ea31cb25d40500"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_zombie_horse_ranch.json"
+hash = "18370d3866fe83e8dbd48cf0ca42e9c508855e8e8b64df20d30da56b3e4614f6"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/shrine_combat_tier_1.json"
+hash = "219d8e2d5e7f78a658ab5e425dc29b46d183220f0ff62dc4450bd4dd6e654cde"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/shrine_combat_tier_2.json"
+hash = "e747612bacf97a036bf6e43aab47d84d26325e8af5fa6ab1bef0ce1582093fd7"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/shrine_combat_tier_3.json"
+hash = "880236fcdd17e01568666df481371372ac619d504d8190f848944d46468abe5e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/shrine_combat_tier_4.json"
+hash = "d8c83f602608ac4bb6c0fe1bb2a46c0d71f8c7b1799b15d6c7f55450f30546f0"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/shrine_combat_tier_5.json"
+hash = "71948fe19b059a46dd80840b96f87f67b1a2d1d3d61a914f0c5143a67aebfb89"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_acacia.json"
+hash = "7820460281397186379dfe6024c527739edcbe320f72966c094db7ada034dfe4"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_birch.json"
+hash = "8c75cf54c361b130672b133131ed06dbebf2f86ad0c1420a2c877305a122d088"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_cherry.json"
+hash = "22d42eb61d4e9252545240f0787a0151a87c5bed509ba7b0311857c2b9f6bf14"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_dark_oak.json"
+hash = "8d1659c2073a37f36c099067c431769b31600bafa23b83df2b8ebf185620a32f"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_desert.json"
+hash = "199ee5a0d5c8d3caa63723902786ee90385c60afde2a4b7262646f30005e28b4"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_jungle.json"
+hash = "5cab64119e1e8cce1ede7ff63e28c5a838d1ba51a1d6c50f2dfccf3e5c1aa452"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_mangrove.json"
+hash = "019674bd80db714c2dfbf1452e4582741376778234c32ce204c825237b1be377"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_oak.json"
+hash = "123e0790edd0007b6b8a576c689e3ecd6a0c3af58340a69bc0b9e7bcaa89ed31"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_snowy.json"
+hash = "da2be0005db0f6a1d48b741bd75a06cc39e4a44fc2b9e278a498381998da76a2"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_spruce.json"
+hash = "e76b7e750da07f2c302e9136eeb39bed31e6f1ffcace0fdb37f6db9239e162a0"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/tavern_swamp.json"
+hash = "4fef872635143990d29b5ab51e15db2dae9d31597b5a73da50cad19056855f74"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/ancient_crypt.json"
+hash = "ac992da6fc111134b5a329793103634382b80f0c5812a01ccec0d0b8bcbe400e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/ancient_ruins.json"
+hash = "71908eacfec883ee0e9475750ac42b73513131beda6ef82afb1bbb6822379cf8"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/ancient_towers.json"
+hash = "399f83decbff5e83e60dad91a19e890a68f19e6ca80934d3629bbfcef0f757c0"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/field_stone_ruins.json"
+hash = "14bd7dbd12897073b84bca1b41c6b32bea216fbbb73a52cea354b1129d2cb6ea"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/field_stone_ruins_rocks.json"
+hash = "b70ad9e4349c1dde3a13b0f5d1ef044d49b7c8596e6ad11f5a27f3ded789c73b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/level_one_ruins.json"
+hash = "c8b561a76d32b8767b72f895deb8e579f25421f1ff6c0a64cda07e6850274e2f"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/level_three_ruins.json"
+hash = "1d91c903a41437aa895f09b4fdf8665ecbeeb8cbd59f415246e010ab78127564"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/level_two_ruins.json"
+hash = "eda3a3063e91a26810146f5717a4a2bbb0313b90eda65a1288a389333f317b3c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/level_two_ruins_pool.json"
+hash = "286186336fa530ea4a4f30aed52756c1acb16ac166a7888c0ee0029c9d9fd653"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/lost_soul_dungeon.json"
+hash = "2667f83f8c6c8b1c8d23dd555d6b45ec8397dc6a266ddc41a1caf23fcf740923"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/philipsruins/worldgen/structure/rare_ruin.json"
+hash = "9a105e2d1bb190cbfbad305cf21a12d7c951d782e0a065a470a8e871b3c68b90"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/desert_outpost.json"
+hash = "4fb9551708ad00a68e693d920826c1b37d3e90ec01f10adf2f44c66862468c15"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/igloo.json"
+hash = "48fc0d603d8bfa6a77569844bf4d4a6a9177026987fa72578dbecc6f61ed6043"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/rubble_desert.json"
+hash = "411d3135dba76d057178359e052c5b7a20bdcc156350120895124a12bdb0ded3"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/rubble_forest.json"
+hash = "b6364a355d6cd027978b6ca24545a58807006ccf8aab72282c35075b9955d054"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/rubble_jungle.json"
+hash = "1c6d87df1c5ce45455b2693c13c0b4c31042b6bbddd93e6a074042a5425a45b2"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/rubble_mesa.json"
+hash = "43d6713003de5f8a245539ebaa4c998e6d2515362f73232464915954f387bffb"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/rubble_mountain.json"
+hash = "ac2b45e494bba5c03cf7fae39de441cca359714736c189a610157d4d01028edf"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/rubble_taiga.json"
+hash = "7a0b5264ae1b582f34fe6375ffd88ab9a93f6eda6d8da27d896378deb6603cc0"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/terralith/worldgen/structure/spire.json"
+hash = "39caf974ebc290d796379b075a3561f778bc0c1adad0a26cc7b5abccd36b202f"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/pack.mcmeta"
+hash = "2cdd36262a5a04990ef3e230be4d428f981dfbbb6ed20e2dacdf16f9157efb21"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/pack.png"
+hash = "c4acd85cb77374f770c5d5054d1f676c1d22724d80bd7f09af40fa98ac9ba4ce"
 
 [[files]]
 file = "global_packs/required_data/el-tweaks/data/create/tags/blocks/non_movable.json"
@@ -307,6 +835,11 @@ hash = "3c5bcaa21c160d15c041e6bdc58da2f77142e6d5328302b81a747624b5a643b2"
 metafile = true
 
 [[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "74614f1dfda229e1c4239a8f21fcb0069186642d0a928978bf354df4126ed26f"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
@@ -322,18 +855,48 @@ hash = "03b91729dc4bceff0688e36acbe9d5331e7284e40a4004e81fa65f72884959fc"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "3c58cdbfe61c7ecec7068fd066b4c375457631e370a64c032c9f8a8666d4f27b"
+metafile = true
+
+[[files]]
+file = "mods/clear-void.pw.toml"
+hash = "aa346562402cbf2d46cdd6b0cce661ba70bfbb3ca29f35aa8327b291a4e55860"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
-file = "mods/connector-2.0.0-beta.14+1.21.1-full.pw.toml"
-hash = "3e4f5ad5622a6002131904f27cd5232768dd9575db4d84441180277ab2b1808c"
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "4461353ff1b5f77cd7d3eb2fe7ed8a32e6900e530cd3e058fe294c8191b09a4a"
+file = "mods/connector-2.0.0-beta.14+1.21.1-full.pw.toml"
+hash = "7816ce683f6e24f2f14f009b7eb5ea36fd9c395452e1d085ff8a67c64f623ca0"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
 metafile = true
 
 [[files]]
@@ -457,8 +1020,18 @@ hash = "2435b8ef311aa0f8130a6999b0ffb5b6db1ffd2287f4b290aefcf0a89bf7446b"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "f86855a3645203b1d477cdb6a55b7b1e0bed7cc744207b37bb5d59bc5891af56"
+metafile = true
+
+[[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.pw.toml"
 hash = "963de5b2e4217b13d850739c2c1c9176779355fec10e7e66e5fc86595c07cbd7"
+metafile = true
+
+[[files]]
+file = "mods/custom-mob-spawns.pw.toml"
+hash = "1e1761d7ad9d097a28e5c3707627e02fc89417ce9d766072c0eef2368c0292a2"
 metafile = true
 
 [[files]]
@@ -467,8 +1040,18 @@ hash = "e358684c8bfb2271f3483770e257d4896dcdd492ae9bf0c0aab7dd36c487e087"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair-9.11+1.21.1-neoforge.pw.toml"
 hash = "7db6f7bd3fbf5112a0b5da2cbbdfa65df73a32497dd242b0d656257a4ed185af"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "e1e8a78328d41538ae90f1302537faf5142ed414370fb804ff821d1d1ae34315"
 metafile = true
 
 [[files]]
@@ -496,11 +1079,6 @@ hash = "909b5fe8f045955960f6a8395c384f92240c87d30ab4642d4258f892b78ba8fe"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "3e01a509e0cdde9bc8f257ab201671531ecb1e9395b42e1a6c673ae72bdf1b1c"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-7.0.3-neoforge.pw.toml"
 hash = "d4e9e8a842cd658533f434e3a70330f74dbd6cb6bd6cbac4fd726acdbd13514b"
 metafile = true
@@ -513,6 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.pw.toml"
 hash = "c620513cd281dadb37e5ab3cba61e0baa0e904602cda2a08b0d2ba248eb46987"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
@@ -543,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.343.pw.toml"
 hash = "ec59b04833c5a6345302a862897d0a75938a12098970659e2bbbb8ad4f7fd2ba"
+metafile = true
+
+[[files]]
+file = "mods/kitchen-projectiles.pw.toml"
+hash = "08d213b75eef56d756d5e1132058652bb2f64319c40ad17912332496e621e53b"
 metafile = true
 
 [[files]]
@@ -616,13 +1204,13 @@ hash = "0b5f2845bad395aaf19d217f23e68aca3f5ac0e4e9701ff2500912f97f0d646a"
 metafile = true
 
 [[files]]
-file = "mods/no-void-structures-2.0.1.pw.toml"
-hash = "381953b94e1187e81a1c48b72b910efee862aa3b30812c77df79dd613f97a43c"
+file = "mods/open-parties-and-claims-neoforge-1.21.1-0.27.5.pw.toml"
+hash = "3b1a57fb27d9f9bf9724b7278cd5343cb70f807f93252bc48f7395bef2c05b31"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims-neoforge-1.21.1-0.27.5.pw.toml"
-hash = "3b1a57fb27d9f9bf9724b7278cd5343cb70f807f93252bc48f7395bef2c05b31"
+file = "mods/philips-ruins.pw.toml"
+hash = "2488bf19149e671ab9fc63823029b19ebae6c4eeabb7ff748c0be341758a246b"
 metafile = true
 
 [[files]]
@@ -646,6 +1234,11 @@ hash = "e14677e4e666a43564e6d60bc5bb3463a1a90a53c92267e6e76fb47eff561670"
 metafile = true
 
 [[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "070e834d2b8eb749a0f547b29bbbeba9aa3b83041cef9b399e8e2e6c5c24e225"
+metafile = true
+
+[[files]]
 file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.pw.toml"
 hash = "9107f7f41ea3847118f35001ec3ae60d0de7bcddfe0d4d7513277ddd43090536"
 metafile = true
@@ -663,6 +1256,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
@@ -691,6 +1289,21 @@ hash = "423c1d6dbbbc1c8fed7e9b3b3717acec8b9ad3dbbaa68f4382c1feb99923bba6"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "c85cdb8d54d62e994704bbc9de2dbb28a4d27fa6cf48515285d1ac41045f5ced"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
 file = "mods/tfmg-1.2.0.pw.toml"
 hash = "47e85ce862e7693c381d1b7f7a8c1e79e57658da4564c7c523f51fdef331f44b"
 metafile = true
@@ -703,6 +1316,11 @@ metafile = true
 [[files]]
 file = "mods/trimmed-neo-1.21-3.0.0.pw.toml"
 hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "73759831fcf3f82001c36ced069d9d2990e3ef634206aa668eb27e2a6f63bc85"
 metafile = true
 
 [[files]]
