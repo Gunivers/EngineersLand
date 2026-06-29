@@ -805,6 +805,11 @@ hash = "3f4fc1077356f9736ba1322aa680465448b94e25ac1fc04f1d1c528ea9a8c4ed"
 metafile = true
 
 [[files]]
+file = "mods/aeroscapes-islands.pw.toml"
+hash = "9f379d1a339eaaa2ba35c7e05f07a7e26c0646882227a7555f63a0f102e9e42a"
+metafile = true
+
+[[files]]
 file = "mods/another_furniture-neoforge-4.0.2.pw.toml"
 hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
