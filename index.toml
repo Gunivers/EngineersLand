@@ -805,16 +805,6 @@ hash = "3f4fc1077356f9736ba1322aa680465448b94e25ac1fc04f1d1c528ea9a8c4ed"
 metafile = true
 
 [[files]]
-file = "mods/aetherial-islands-2.0.2.pw.toml"
-hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
-metafile = true
-
-[[files]]
-file = "mods/aetherial-islands-clusters-edit-1.2.1.pw.toml"
-hash = "3e0836047def435d8c640853c9faa96ff3f8db7721d80405eaab385e8fd6b34f"
-metafile = true
-
-[[files]]
 file = "mods/another_furniture-neoforge-4.0.2.pw.toml"
 hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
