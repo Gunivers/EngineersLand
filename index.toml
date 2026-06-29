@@ -307,6 +307,11 @@ hash = "3c5bcaa21c160d15c041e6bdc58da2f77142e6d5328302b81a747624b5a643b2"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
 file = "mods/caelus-neoforge-7.0.1+1.21.1.pw.toml"
 hash = "90c7f0ae734d90c8093720ab8a9ecefb3b60ac6ad6e2581011599b89fee5dec0"
 metafile = true
@@ -324,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/connector-2.0.0-beta.14+1.21.1-full.pw.toml"
 hash = "3e4f5ad5622a6002131904f27cd5232768dd9575db4d84441180277ab2b1808c"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "4461353ff1b5f77cd7d3eb2fe7ed8a32e6900e530cd3e058fe294c8191b09a4a"
 metafile = true
 
 [[files]]
@@ -347,6 +357,11 @@ hash = "49233189ebd4e5ae53d29a152f1d5dd5acd126729305bb913c90a78f9dee2185"
 metafile = true
 
 [[files]]
+file = "mods/create-backtank-trims.pw.toml"
+hash = "981d418a9ff92ffb92b2d2d573ca83e8aa90630c4513da9c42753363511746ae"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen-2.5.0.pw.toml"
 hash = "515ac7c3db5907f2eef621754450e8d25b809ab71d732de27ee0df36a17c4f60"
 metafile = true
@@ -359,6 +374,21 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry-2.5.0-preview-alpha1.pw.toml"
 hash = "2b7a1635daf5b83a7d841e85fddd1d6cfdf178213932ec69a59c3c60db40acdb"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
 metafile = true
 
 [[files]]
@@ -435,10 +465,6 @@ metafile = true
 file = "mods/elytraslot-neoforge-9.0.2+1.21.1.pw.toml"
 hash = "71a068d405e20f395d8ad43c5cd0ed6f92f9be340e029fd4a5ef0ff82bb2811f"
 metafile = true
-
-[[files]]
-file = "mods/enderscape-neoforge-2.1.0+mc1.21.1.jar"
-hash = "9d8d615052c98b5f400d93a8dc193cc5dae59bb34f468812767b554d0c0e9ca8"
 
 [[files]]
 file = "mods/enderscape.pw.toml"
