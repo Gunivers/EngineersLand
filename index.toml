@@ -357,6 +357,16 @@ hash = "49233189ebd4e5ae53d29a152f1d5dd5acd126729305bb913c90a78f9dee2185"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "932b0d9f28a5058c41bc2faf0cc09b68ef368e0cad3259efa2bace45e128fe29"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "d26208ac86594d7d1186514c56971d508fe375f8b9e845bd4b23cc24bec31539"
+metafile = true
+
+[[files]]
 file = "mods/create-backtank-trims.pw.toml"
 hash = "981d418a9ff92ffb92b2d2d573ca83e8aa90630c4513da9c42753363511746ae"
 metafile = true
@@ -506,6 +516,11 @@ hash = "c620513cd281dadb37e5ab3cba61e0baa0e904602cda2a08b0d2ba248eb46987"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
@@ -513,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-neoforge-1.21.1-1.0.37.pw.toml"
 hash = "5bb85c87f43a7f0b298b3245e0036430b4908bb3423872fd35d283a7e057fd0c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
 metafile = true
 
 [[files]]
@@ -603,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims-neoforge-1.21.1-0.27.5.pw.toml"
 hash = "3b1a57fb27d9f9bf9724b7278cd5343cb70f807f93252bc48f7395bef2c05b31"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
