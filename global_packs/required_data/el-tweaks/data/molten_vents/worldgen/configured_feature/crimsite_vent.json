@@ -7,13 +7,13 @@
         {
           "weight": 3,
           "data": {
-            "Name": "tfmg:cut_galena_wall"
+            "Name": "create:cut_crimsite_wall"
           }
         },
         {
           "weight": 7,
           "data": {
-            "Name": "tfmg:cut_galena_slab"
+            "Name": "create:cut_crimsite_slab"
           }
         }
       ]
@@ -24,13 +24,13 @@
         {
           "weight": 2,
           "data": {
-            "Name": "tfmg:cut_galena"
+            "Name": "create:cut_crimsite"
           }
         },
         {
           "weight": 8,
           "data": {
-            "Name": "tfmg:galena"
+            "Name": "create:crimsite"
           }
         }
       ]
@@ -38,7 +38,7 @@
     "innerBlock": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "molten_vents:dormant_molten_galena"
+        "Name": "molten_vents:dormant_molten_crimsite"
       }
     },
     "liquidBlock": {

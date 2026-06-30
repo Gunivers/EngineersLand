@@ -990,7 +990,7 @@ hash = "8f0bfb22c3102bf8e8594d29b225e3378ca2513f0937871c12644ad7f804b18a"
 
 [[files]]
 file = "global_packs/required_data/el-tweaks/data/molten_vents/neoforge/biome_modifier/add_vents_overworld.json"
-hash = "a7a5ab09691cc72cbce2edcee96a07aff4ba3a21c83817c794ae0ce2fe64c8cd"
+hash = "912f203414c9116981bdd86db9aeae7f305d291d68ce7743d65928c731934f11"
 
 [[files]]
 file = "global_packs/required_data/el-tweaks/data/molten_vents/physics_block_properties/vents.json"
@@ -1001,16 +1001,32 @@ file = "global_packs/required_data/el-tweaks/data/molten_vents/tags/block/vents.
 hash = "e9a8dd2b5b44d5a340753434fc9f7e7081bed929b9de062b19cd1a4f91846f2b"
 
 [[files]]
-file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/aquatic_galena_vent.json"
-hash = "5f7a4add44248e88f72aa3501bc3950c0c2f8a87a7e8f26e7a7d22914156e7be"
+file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/asurine_vent.json"
+hash = "584cb6d2d6abcff0241852724a0aec57328b01e11448bc23f6714934303c551e"
+
+[[files]]
+file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/crimsite_vent.json"
+hash = "e1d26dd489622f1d1b7c78452212b762aafd67cbd3676cdcb9fc9e6de718d607"
 
 [[files]]
 file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/galena_vent.json"
-hash = "903709d23e2f7b11dbe75070ae75cd95f7559336918d382e46eed7629a2a0e37"
+hash = "7cbf4dd4d39e8c4f414dbef7c153b48f36000656e2a626ccb507f346d724a47f"
 
 [[files]]
-file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/placed_feature/aquatic_galena_vent.json"
-hash = "d1d6f344e32af9cb6ecb0a02d2a0a30cb549b579db4e769638c9dc4c23278612"
+file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/ochrum_vent.json"
+hash = "42ebd993c6b156bd8ccd02cd04ab8ef6df4b0b3e376dfd98ac15ec34305a9e03"
+
+[[files]]
+file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/scorchia_vent.json"
+hash = "7d6de86f4517baf324e2e237d9cfd5570b8d0334a0a484ca00481e91c1c3de00"
+
+[[files]]
+file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/scoria_vent.json"
+hash = "ba356820b4b3668338fc4ece3dddf40761a5370dabe9835046443d524a958376"
+
+[[files]]
+file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/configured_feature/veridium_vent.json"
+hash = "a71285601368603445b541ca3f0d1248d24b443acfd1ba61091edafd95bf89d4"
 
 [[files]]
 file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/placed_feature/galena_vent.json"
@@ -1622,7 +1638,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
+hash = "4cf3d3d7e5f4df819d5b67ab0b278a6baffdf880e2a2c9c4d0105fbfe3986376"
 metafile = true
 
 [[files]]

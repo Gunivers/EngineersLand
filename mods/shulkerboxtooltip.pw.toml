@@ -1,6 +1,6 @@
 name = "Shulker Box Tooltip"
 filename = "shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2M01OLQq/versions/IuqNIoAi/shulkerboxtooltip-neoforge-5.1.9%2B1.21.1.jar"
