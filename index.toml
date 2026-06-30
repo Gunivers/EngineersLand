@@ -1177,6 +1177,11 @@ hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
 metafile = true
 
 [[files]]
+file = "mods/bluemapcreateentityaddon.pw.toml"
+hash = "19b306dbdd5d0da0907c8b4d0d2d74ad93bb7539cc19210dd082979c95975c24"
+metafile = true
+
+[[files]]
 file = "mods/caelus-neoforge-7.0.1+1.21.1.pw.toml"
 hash = "90c7f0ae734d90c8093720ab8a9ecefb3b60ac6ad6e2581011599b89fee5dec0"
 metafile = true
