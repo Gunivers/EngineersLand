@@ -9,8 +9,44 @@ file = "configureddefaults/config/analogaudio/analogaudio.server.toml"
 hash = "2196e5c019054717840e047a95851efac8ad6a1d0e2687e2c2ec5afd5415aace"
 
 [[files]]
+file = "configureddefaults/config/betterstrongholds-neoforge-1_21.toml"
+hash = "3f2ae4edfb2c45137f14dc6a1a4f02958735b9831c0762d19d9e57fe4ff72346"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/README.txt"
+hash = "cd97289ac49b09b032d9c69a2f893b8fa9f73849b4adb9f63f8486a83bf2fd5a"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/armorstands.json"
+hash = "0ceed17f2b781abf52b3ec4fbf23fac99cc91bc65b721c9a470e33f501a1180f"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/itemframes.json"
+hash = "8e135075a4ef4b4f95f7007acb05d4ea76b615d15e4a541b49ccd11078b28b55"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/ores.json"
+hash = "badff9dc36497a7d0baa77c38c502116af3169b2fc28a10bb530df42c2c3ad44"
+
+[[files]]
+file = "configureddefaults/config/betterstrongholds/neoforge-1_21/rareblocks.json"
+hash = "89a9e8ca3be505dbf6d91ee5d287f79ba5c93699a074da4bcf3b7ad9303c5f9d"
+
+[[files]]
 file = "configureddefaults/config/biome_replacer.properties"
 hash = "738a406a107c81d7e357c071e1f26222d6616753e994f6a2177aa488faa995c7"
+
+[[files]]
+file = "configureddefaults/config/cloud_configs.json"
+hash = "0c45e3cf0c0406c74a18c55899904fa931af5a63038d0920f14ee0224bfbf7a8"
+
+[[files]]
+file = "configureddefaults/config/ctov-common.toml"
+hash = "142c6a80566df0ad4b589a27a6d0821760deef771f9c02a2c365f811bb180d96"
 
 [[files]]
 file = "configureddefaults/config/custom-mob-spawns.json"
@@ -97,6 +133,10 @@ file = "configureddefaults/config/molten_vents/custom_blocks.json"
 hash = "cf187c959cdba886c44ec1a8d73c8aa54a8bf8c8356af5c7a95ac17258ed5c25"
 
 [[files]]
+file = "configureddefaults/config/natures_spirit-common.toml"
+hash = "49fe724c77d5e7caf4fe75f9644d8dcd865ada8ef0e695905bbe38432c3ffa00"
+
+[[files]]
 file = "configureddefaults/config/sounds/ui.json"
 hash = "d48ffa076a8e1fe0de0bbc61c338d0e56c44ef1328276efe084ad0f4b0686c79"
 
@@ -151,6 +191,22 @@ hash = "7e86d201d08961c075c5c2308b71db7eef5f4d0fcd112c74ccaa1c3027dd1874"
 [[files]]
 file = "configureddefaults/config/structurify/structurify_backup_2026-05-12_15-52-27.json"
 hash = "e2eefa7ea7f1dc3dc70c374124cecc31fe4c7a5b7a27f033cd9fd59920d5ebcb"
+
+[[files]]
+file = "configureddefaults/config/supplementaries-client.toml"
+hash = "e1af8c6644864f8e548b6f9fcd96ca2ce01e03038bbdb1a72c8d59d44e2ac079"
+
+[[files]]
+file = "configureddefaults/config/supplementaries-common.toml"
+hash = "8348dc53580acbe35d9ad49f346822c2310ac10f0f04ea1cd650c8e4f432f0e1"
+
+[[files]]
+file = "configureddefaults/config/terrablender.toml"
+hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
+
+[[files]]
+file = "configureddefaults/config/terralith.json"
+hash = "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d"
 
 [[files]]
 file = "configureddefaults/fancymenu_data/action_favorites.json"
@@ -429,6 +485,282 @@ file = "global_packs/required_data/Isabel's Aeroscapes Extras/pack.png"
 hash = "c4acd85cb77374f770c5d5054d1f676c1d22724d80bd7f09af40fa98ac9ba4ce"
 
 [[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_dark_forest.json"
+hash = "270f667c0fe7f2f6d92f846027254053236ea27220afdfc6e8c4770060924317"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_desert.json"
+hash = "562c13a91cd8b37a372299c819409cd919844b57b37619d98a785d259998d802"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_desert_oasis.json"
+hash = "36665164311e05f06ec900c89220e07c71803e3473d2dd3eba2912e0eedca11d"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_jungle.json"
+hash = "7a4b5e6dbdb321a88b2df8a4fc74f27aa7d4e1313bcd182877e1b46598380e3a"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_jungle_tree.json"
+hash = "1b5bce87173a614b74e1ea878a81ad12ddbafb0fdb198a7633debe9b8f2db937"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_mesa.json"
+hash = "a7380889b7d877a4c9d645c5330a9353c8877a5f9b5338f4deaf3da17f9778be"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_mesa_fortified.json"
+hash = "41a9ab0576e94fbf3309419e53b5f83b5602bf23d929422424188ccf56d5e81c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_mountain.json"
+hash = "298873cfa8dcfef99e571aba2f6bbe65bd63b73010aede8c9516bc81769cfc68"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_mountain_alpine.json"
+hash = "9d292bda0d64e3922ee4843e802419851bf00579a586b54c57ae277ef101973b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_mushroom.json"
+hash = "446512147465ec31dc6addc64de58ec3d7d487d99b718a659d9c1a2ce66f009e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_plains.json"
+hash = "bb30c9b5d32fdbb1bdeee25b9731cadb1be40cb72d3643f71f051e75573afdc6"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_plains_fortified.json"
+hash = "7b1ad4311857f2cb5fa8337f0d64b897aaa8e1734dd5f625faca3dead1a5fa71"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_savanna.json"
+hash = "8152ed992a121f442e332363b8a56a5369c7cb0d1ba2df3b3c620a7a9889cdc7"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_savanna_na.json"
+hash = "63934e1f88dc56d764b4e6f028fa1b90e078035f08306a2b6f760887eb0d376b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_snowy_igloo.json"
+hash = "6daffcf8fce210c9ae9d0a257edba8aa2ef9d7fa34d8efe46cfde60aa96aa923"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_swamp.json"
+hash = "285aa7b7c0e58810b6aefd497ae38150a883b671c23045ee035f8253ed874166"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_swamp_fortified.json"
+hash = "b06e1a98bfdbba4da7bd5ec08b709850c3a303d669f3edfca0a38075da61af1d"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_taiga.json"
+hash = "4050b080f1e044b3af363495c0ffddda951c918eddd040a1fc7b8c83c981983b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/large/village_taiga_fortified.json"
+hash = "5315603498e7c26075b9ef66c395f16d51136153298f95bad1ea28f75f28e71b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_dark_forest.json"
+hash = "12c51b0957792aea60298a2a080c958b3d850665f6b3a67ca9310bb75a54daea"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_desert.json"
+hash = "0441ed6c146c2f775a638da1e8f7d2675df46d7b4d578e03257347c334d19280"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_desert_oasis.json"
+hash = "3cbcddd53780ffaa30b7a745704285daed54a2e3083b0f3dab146b7a4ee4ca0e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_jungle.json"
+hash = "3a07b1c6a7a1ba4ab2abee6ce1a55dd2e83058bf2d79e6bf895e14127d785b2a"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_jungle_tree.json"
+hash = "19134b8af473867372d331262ca2e8d77db3badfb9ae78631c47e1273cf54b29"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_mesa.json"
+hash = "7a9d704647536cd68de7bf008c1d0c05a03e49099bb39496905fdfbd57ad492c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_mesa_fortified.json"
+hash = "df1487795be9227a98aa1ec7331cac8b90ccd1df27fd87f768a41412a67514f2"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_mountain.json"
+hash = "296eadbea8ffea4a29aa31a79dfec5e4b0aa3fe2e1fc34c6f52a7398414cc840"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_mountain_alpine.json"
+hash = "4a7c4473a83850bd681cc5dc07b01a7b67ad7e7894da947c03d784b33c4bf80c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_mushroom.json"
+hash = "d44b64ce6a2fe1e1a24964ba14ff8561e22ca6903253082715633b8fa1915792"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_plains.json"
+hash = "98193702b37934505c553a10d2443263156bcc1ec292f005c10010278fa4b078"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_plains_fortified.json"
+hash = "00a808e580b6d51a54379f846283110ff934925d88d8daebe73a9c6eaf5aacb2"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_savanna.json"
+hash = "a226925e53dd93a131f43ef79f936d9863e2bf607553a0ace847ea2ccbb61c5f"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_savanna_na.json"
+hash = "53ef981d704ce6412a564120d8ef061f20c622250914420b89987a5d01da97fd"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_snowy_igloo.json"
+hash = "526ff9502b711974da12177aca1642dc72c88f5060a1ac37616ba9a2516ec54e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_swamp.json"
+hash = "c95f91071cdc019320d264536681e58f4fb2923187b836555eeb19933b77239f"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_swamp_fortified.json"
+hash = "c893f3f5c56513f6523eeb47504e9367892e50db66af171066eb8a90392e77eb"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_taiga.json"
+hash = "5d58a33c6ae04010f1c259f480de05c174ae6fced92fd91bf7fc28e952d9b039"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/medium/village_taiga_fortified.json"
+hash = "be2f2d696385fa530313b78595ed72455f9217e43ae00698f66286007c59c378"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_badlands.json"
+hash = "9b4d8fae6fe843ee97cff8eec5a7c0ff8c9c794d28c39d0784c8a48183a403aa"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_beach.json"
+hash = "dbd8c06f097aebc99a44bea03d8e4ad4be938a4b17f3634df5c329c8b0e59314"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_dark_forest.json"
+hash = "3c325a94884938baacf10dd141d262d393a93569ab99f9cba99d1ab5c560b94b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_desert.json"
+hash = "510f6348500750ee0cf5d5e10220a78d258bd9a4c1f15e73dedc07b61292e579"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_jungle.json"
+hash = "e885c122bcb92f3da1ef3f8932e9be7b3b3004cc4bc480f051c12869f4bd36aa"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_mesa.json"
+hash = "9b4d8fae6fe843ee97cff8eec5a7c0ff8c9c794d28c39d0784c8a48183a403aa"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_mountain.json"
+hash = "eb64ba7a0c419661e7341f3ecde3d14a1ef6abece6af11b0e6aabba3287ab8a3"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_plains.json"
+hash = "f2df9de868e8e667d8c4fbec8459ea0446cb46d118caf5c218215cf8c508b4c6"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_savanna.json"
+hash = "9bed4e0dbf7443e3e0190a48a3d78e9ee8bb1cb8a0cfda777b31045dbf82036b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_snowy.json"
+hash = "9937b95ae21fd62a67e970fe592db1d2dab5cb326121d4ad587ce839d89bda82"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_swamp.json"
+hash = "30736562823d23dd41569c016c44f12602b7a3361693accdcdae95915303e891"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/pillager_outpost_taiga.json"
+hash = "ffc454356522e39eadbd550cfb9bebd5fc6e5034fb2a2fa9c92bf2fc618b0c35"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_dark_forest.json"
+hash = "129d7e4ed87c0ba90739d1027ff04cd41d5a9201c9d23348263ef14271f74bca"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_desert.json"
+hash = "d5898dda4d9717e58d7395536eb60141329adf0f6518ae5056513afe5fd5803c"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_desert_oasis.json"
+hash = "c12566b374b5e4f31147547a7a9072d99dbda36687d7bcd295dbe06af4a4ce25"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_jungle.json"
+hash = "750b6a82283fdf377f9d6b393f76eb9883c090152612d27028a73573b9ab482d"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_jungle_tree.json"
+hash = "a16ac52b2345f00eacface24572a96376ff545fc38b97469d231754023eb6fff"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_mesa.json"
+hash = "e220dea6edb792823aed141ef032214e02b19151ee3e8f323358e3ca8f319d4b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_mesa_fortified.json"
+hash = "df971e92a92daef985d60df6bbbbb0a28315c7744704e38fb743654c58250514"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_mountain.json"
+hash = "e3a3ffb8124ce8e66c7c8b842967066af4783026c5da48b87e41e6fb068c8771"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_mountain_alpine.json"
+hash = "e66b1463a06f7901b8af63cd350df6be87bf4b5385cf8afb5ab34b9a912d7fe2"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_mushroom.json"
+hash = "16b7995bdfc29baa2ea9d3ee304624b374cd61905b7c99f18b01b24e4e271e58"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_plains.json"
+hash = "b1db8a1f9ccfc74e1a7c6066850c122653909adfedf8f9723231def59dfb4bf7"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_plains_fortified.json"
+hash = "83201eeac9d4b4fc8df5ea98ff33faede6523449b57bec4e5eacfb616edb777b"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_savanna.json"
+hash = "99d43f9dc77d4cbed236d0bd866fcc8426030c01774b1622f0377ddba4504bdd"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_savanna_na.json"
+hash = "81dba763fbd69f0339d8397e7284a19690d19df34b145188ede3640ffb683505"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_snowy_igloo.json"
+hash = "188fd6ae356cea2cf89d63be1b4b8e421afb9546001bc2ded0abfccdfaaa2284"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_swamp.json"
+hash = "f035a4221564ed9e4da0b95b3a59ef6652e83e633e5523628e19397608f1131e"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_swamp_fortified.json"
+hash = "dcd22796afd45e9e219298075dc71098ebbeeb8bcedc4fdf94c21a421290d3a8"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_taiga.json"
+hash = "8e825a22aa241f64608e38b90b0ad23b26c2f205d210cf0fd108614770c1af30"
+
+[[files]]
+file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/ctov/worldgen/structure/small/village_taiga_fortified.json"
+hash = "319ee7be0e374f3befe4f3ec792ff5a68d9277f42c39d4278cba298b4aae77ac"
+
+[[files]]
 file = "global_packs/required_data/Isabel's Aeroscapes Structure Fixes/data/nova_structures/worldgen/structure/remnant_bee_keeper.json"
 hash = "9544908ffbf34e620ed532841bf37282b68cda4d55742db27d6a267371c457b0"
 
@@ -661,7 +993,7 @@ file = "global_packs/required_data/el-tweaks/data/molten_vents/neoforge/biome_mo
 hash = "a7a5ab09691cc72cbce2edcee96a07aff4ba3a21c83817c794ae0ce2fe64c8cd"
 
 [[files]]
-file = "global_packs/required_data/el-tweaks/data/molten_vents/physics_block_properties/asurine_vent.json"
+file = "global_packs/required_data/el-tweaks/data/molten_vents/physics_block_properties/vents.json"
 hash = "6bdd1a624974e57dbdb6b9c70f80cdc1e2d71a384e34d836a2ac18288dba2e8b"
 
 [[files]]
@@ -745,11 +1077,6 @@ file = "icon.png"
 hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
 
 [[files]]
-file = "mods/Analog-Audio-0.1.0.pw.toml"
-hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
-metafile = true
-
-[[files]]
 file = "mods/Chunky-NeoForge-1.4.23.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -831,7 +1158,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "74614f1dfda229e1c4239a8f21fcb0069186642d0a928978bf354df4126ed26f"
+hash = "7170c3cce8959cf23812283df3449750547e1cbc76ec118f1d78299ae78efa29"
 metafile = true
 
 [[files]]
@@ -1016,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "f86855a3645203b1d477cdb6a55b7b1e0bed7cc744207b37bb5d59bc5891af56"
+hash = "8e63fec28c22201636bd56f0170e9b85e26b558c4ec7215e068f53d3518dc5bb"
 metafile = true
 
 [[files]]
@@ -1030,8 +1357,8 @@ hash = "1e1761d7ad9d097a28e5c3707627e02fc89417ce9d766072c0eef2368c0292a2"
 metafile = true
 
 [[files]]
-file = "mods/dragonlib-neoforge-1.21.1-beta-3.0.28.pw.toml"
-hash = "e358684c8bfb2271f3483770e257d4896dcdd492ae9bf0c0aab7dd36c487e087"
+file = "mods/dragonlib.pw.toml"
+hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
@@ -1096,6 +1423,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "a87a4a2c45223994ce2024026d9c88b93712cf1fa915279d0ba5e8e7090b5583"
 metafile = true
 
 [[files]]
@@ -1194,8 +1526,18 @@ hash = "28b1e39ccc18707594487508e5e8c1bc7b0ae7b20fe02aab342ef2d27445a1c2"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
+metafile = true
+
+[[files]]
 file = "mods/mru-1.0.19+LTS+1.21.1+neoforge.pw.toml"
 hash = "0b5f2845bad395aaf19d217f23e68aca3f5ac0e4e9701ff2500912f97f0d646a"
+metafile = true
+
+[[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
 
 [[files]]
@@ -1289,6 +1631,11 @@ hash = "c85cdb8d54d62e994704bbc9de2dbb28a4d27fa6cf48515285d1ac41045f5ced"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "039a71011f455c24c9ccc7b38ef6f01561992a77a5d0c21f75dc01f70b42b1e2"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
@@ -1315,7 +1662,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
-hash = "73759831fcf3f82001c36ced069d9d2990e3ef634206aa668eb27e2a6f63bc85"
+hash = "be517604d9f197eb9ccc0685aeb8443831d87a2b3387db45be3832ff0422b763"
 metafile = true
 
 [[files]]
@@ -1336,4 +1683,9 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.pw.toml"
 hash = "7116bd2108e50d04502a5d580aca49b5cd5926f069d0b663fc0e9e2d3873e0e1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
