@@ -1,0 +1,13 @@
+name = "Dynmap®"
+filename = "Dynmap-3.7-beta-8-forge-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRQREgAc/versions/EcAD4HIz/Dynmap-3.7-beta-8-forge-1.21.jar"
+hash-format = "sha512"
+hash = "ee86a33a0175cda054c74e888dbef29c051733fb1f32117f41c8c37d150b09143914826c1d88630dec6347cc5f25164f031920e52cb08633a9b6534a0be06661"
+
+[update]
+[update.modrinth]
+mod-id = "fRQREgAc"
+version = "EcAD4HIz"

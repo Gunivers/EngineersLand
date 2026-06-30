@@ -1387,6 +1387,11 @@ hash = "7db6f7bd3fbf5112a0b5da2cbbdfa65df73a32497dd242b0d656257a4ed185af"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "d782bba100a8f5f22019ed38bb57ee3e42b06926e90f7b683e84fdd807d9b6b4"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "e0124ba6288592345e2a8c40df340ceecd749b6300bf00d1506ef2a0f27c7cd4"
 metafile = true
