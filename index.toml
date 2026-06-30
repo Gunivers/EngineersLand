@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector-2.0.0-beta.14+1.21.1-full.pw.toml"
-hash = "7816ce683f6e24f2f14f009b7eb5ea36fd9c395452e1d085ff8a67c64f623ca0"
+hash = "0d34fd3ea9843a38da24766d0a263e29d8f84e0aed88e27beb8f7c52ac341bb5"
 metafile = true
 
 [[files]]
