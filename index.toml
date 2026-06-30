@@ -121,6 +121,10 @@ file = "configureddefaults/config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "configureddefaults/config/lithium.properties"
+hash = "ed6881225d39c109ba94537d8dc7598262684b54eea38ee80f786ca2df0b6d4b"
+
+[[files]]
 file = "configureddefaults/config/molten_vents/conductive/galena.json"
 hash = "45d8b9c1de6c068dac50d753a852ddd982167bdcca7cc02e2474dbcd2d872ba0"
 
