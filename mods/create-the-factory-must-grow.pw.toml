@@ -1,0 +1,8 @@
+name = "Create: The Factory Must Grow"
+filename = "tfmg-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://files.ascpial.fr/engineers-land/gunivers/tfmg-1.2.3.jar"
+hash-format = "sha256"
+hash = "b9cdce28aadb4dae8961d747c5dd20a75c369cce0df80091d1085c5ddcac3b3d"

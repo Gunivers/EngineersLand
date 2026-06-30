@@ -1,0 +1,8 @@
+name = "Sable"
+filename = "sable-neoforge-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://files.ascpial.fr/engineers-land/gunivers/sable-neoforge-1.21.1-2.0.3.jar"
+hash-format = "sha256"
+hash = "fc2b8ccd928d646f9c9c87451661223f25f4bb30283c11da855642656cfd6a2a"
