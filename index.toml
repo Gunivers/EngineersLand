@@ -1172,6 +1172,11 @@ hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/caelus-neoforge-7.0.1+1.21.1.pw.toml"
 hash = "90c7f0ae734d90c8093720ab8a9ecefb3b60ac6ad6e2581011599b89fee5dec0"
 metafile = true
@@ -1384,11 +1389,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair-9.11+1.21.1-neoforge.pw.toml"
 hash = "7db6f7bd3fbf5112a0b5da2cbbdfa65df73a32497dd242b0d656257a4ed185af"
-metafile = true
-
-[[files]]
-file = "mods/dynmap.pw.toml"
-hash = "d782bba100a8f5f22019ed38bb57ee3e42b06926e90f7b683e84fdd807d9b6b4"
 metafile = true
 
 [[files]]
