@@ -11,3 +11,8 @@ hash = "99b872a7cbe36aad26537df5fec236fde6590069b529b52d52c90c212b94a433181ac91b
 [update.modrinth]
 mod-id = "DOUdJVEm"
 version = "diwhY7gL"
+
+[option]
+optional = true
+default = false
+description = "Support de manette de jeu pour Minecraft."
