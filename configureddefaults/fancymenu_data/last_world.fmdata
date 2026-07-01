@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = /var/home/ascpial/Jeux/Minecraft/instances/Engineer'sLand - Local/minecraft/saves/New World
-}
-
