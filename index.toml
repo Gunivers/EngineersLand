@@ -1363,6 +1363,11 @@ hash = "71a068d405e20f395d8ad43c5cd0ed6f92f9be340e029fd4a5ef0ff82bb2811f"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "ca3ef8e60e8ed2d7b82cc8b3ce0188f122125d41744d95d9ef6de3dbf77f8957"
+metafile = true
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "5c53437a2a927521b266bda97df2677bd052db6c6059a0bfb604c0fd245beec2"
 metafile = true
@@ -1482,6 +1487,11 @@ hash = "e85e25605413a45c539556b5d62b71b17ddb3826508190fee55e393dfaf5e277"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "9d979373cbe241f781d50fcf9e41bb84576760bbe050d9d8a89f451e0ff7a615"
+metafile = true
+
+[[files]]
 file = "mods/lithium-neoforge-0.15.3+mc1.21.1.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
@@ -1584,6 +1594,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4cf3d3d7e5f4df819d5b67ab0b278a6baffdf880e2a2c9c4d0105fbfe3986376"
+metafile = true
+
+[[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "5cac8f28b628730c4281d5a989b17314186b9099bc96e7b1637d05970db6e7ef"
 metafile = true
 
 [[files]]
