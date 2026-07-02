@@ -1,0 +1,13 @@
+name = "Create: Cats Don't Care (CCDC)"
+filename = "create-cats-dont-care-0.0.2+1.21.1+neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/q0amtIqG/versions/1BaU3Sxe/create-cats-dont-care-0.0.2%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "8eb764dcdff6ac862d0c0cad863f03bc5eb05a924d1ad78eb9458042810523db28658be2f0ef7802189186f6af46195faad9f1503f539601fa87bc3811a5e6c2"
+
+[update]
+[update.modrinth]
+mod-id = "q0amtIqG"
+version = "1BaU3Sxe"

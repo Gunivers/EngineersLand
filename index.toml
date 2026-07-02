@@ -1108,6 +1108,11 @@ hash = "c06b689f9d2699184c22799e2968ea5a42c126f9f4485ab66d666d615de4a9ee"
 metafile = true
 
 [[files]]
+file = "mods/autojump-fix.pw.toml"
+hash = "0e5cbb170e4015a621a34ecc59b6ee95070aa86a648e6d193077a7f553b369d5"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
@@ -1140,6 +1145,11 @@ metafile = true
 [[files]]
 file = "mods/caelus-neoforge-7.0.1+1.21.1.pw.toml"
 hash = "90c7f0ae734d90c8093720ab8a9ecefb3b60ac6ad6e2581011599b89fee5dec0"
+metafile = true
+
+[[files]]
+file = "mods/cats-dont-care.pw.toml"
+hash = "272ed2a4936138e114741928b35cc168b2353f39db0bd335fdc2a03093ad6988"
 metafile = true
 
 [[files]]
@@ -1230,6 +1240,11 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "6a1ac120ec1ef42efa9be09d5316b8719294be29c44ed62b00ec2dc508227f5d"
+metafile = true
+
+[[files]]
+file = "mods/create-cats-dont-care.pw.toml"
+hash = "2c4a48b5ad43ca1abec21109f7aecc00c2e7f78e5a60573f116b6f7071590814"
 metafile = true
 
 [[files]]

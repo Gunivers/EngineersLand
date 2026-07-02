@@ -1,0 +1,13 @@
+name = "Cats Don't Care (CDC)"
+filename = "cats-dont-care-1.0.1+1.21.1+neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OihWKxvL/versions/AWH0Ycuw/cats-dont-care-1.0.1%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "595a5821e51556612452f2e3ef9dc19f5a50ce3d43c6295ef24b039d78c0b33c5fc41295632a85af93edcedd59e327154c12947a4d04ecf8454ca15f03c913b8"
+
+[update]
+[update.modrinth]
+mod-id = "OihWKxvL"
+version = "AWH0Ycuw"
