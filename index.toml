@@ -1642,6 +1642,11 @@ hash = "039a71011f455c24c9ccc7b38ef6f01561992a77a5d0c21f75dc01f70b42b1e2"
 metafile = true
 
 [[files]]
+file = "mods/talkingheads.pw.toml"
+hash = "82716ad09fdaacffd827247a76eba451e40f4a972d557d417a1bf58b608a288e"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
