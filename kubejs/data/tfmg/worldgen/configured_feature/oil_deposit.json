@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:air",
+          "probability": 0.05
+        },
+        "state": {
+          "Name": "tfmg:oil_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "state": {
+          "Name": "kubejs:cloud"
+        }
+      }
+    ],
+    "size": 64,
+    "discard_chance_on_air_exposure": 0
+  }
+}

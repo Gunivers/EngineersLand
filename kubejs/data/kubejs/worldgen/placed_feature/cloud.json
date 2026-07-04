@@ -1,0 +1,11 @@
+{
+  "feature": "kubejs:cloud",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "below_top": 0
+      }
+    }
+  ]
+}
