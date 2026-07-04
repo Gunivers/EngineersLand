@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "tfmg:block/oil_deposit"
+  },
+  "render_type": "minecraft:translucent"
+}
