@@ -1581,8 +1581,8 @@ hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
-file = "mods/railways-0.3.0-alpha.2+neoforge-mc1.21.1.pw.toml"
-hash = "5e71d1479b82220751555fe48bb9c67210b2fde57788f4c9e03dac5dab495780"
+file = "mods/railway.pw.toml"
+hash = "e44f2a3744c76ca5415dba1679454c0655bb52b1e42cd7df8001f52c55401b5a"
 metafile = true
 
 [[files]]
