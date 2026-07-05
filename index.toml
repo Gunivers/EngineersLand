@@ -85,6 +85,10 @@ file = "configureddefaults/config/fancymenu/options.txt"
 hash = "7f3ec1b6bf41a081cb97ef6014539b0bb36d753d5c76082f5c807022ee2aa95e"
 
 [[files]]
+file = "configureddefaults/config/gravestone-server.toml"
+hash = "6ddf2cf723d6c534a2e89916f47f252887632812d4e4eb052f32394b25639a66"
+
+[[files]]
 file = "configureddefaults/config/lithium.properties"
 hash = "ed6881225d39c109ba94537d8dc7598262684b54eea38ee80f786ca2df0b6d4b"
 
@@ -1118,6 +1122,11 @@ hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.pw.toml"
 hash = "3c5bcaa21c160d15c041e6bdc58da2f77142e6d5328302b81a747624b5a643b2"
 metafile = true
@@ -1439,6 +1448,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-neoforge-1.21.1-1.0.37.pw.toml"
 hash = "5bb85c87f43a7f0b298b3245e0036430b4908bb3423872fd35d283a7e057fd0c"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "a90b481b3ce142ec1c515e7f7f1a5ca3a2b9445a0e38222428ff86e8751d02d9"
 metafile = true
 
 [[files]]
