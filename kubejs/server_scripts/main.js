@@ -19,12 +19,18 @@ ServerEvents.tags('block', event => {
 
     //event.add('simulated:non_movable', 'kubejs:cloud')
     event.add('create:non_movable', 'kubejs:cloud')
+
+
+    event.add('kubejs:oil_replaced', 'tfmg:fossilstone')
+    event.add('kubejs:oil_replaced', 'tfmg:crude_oil')
 })
 
 ServerEvents.tags('fluid', event => {
 
     event.removeAllTagsFrom('createbigcannons:molten_steel')
     event.add('kubejs:removed', 'createbigcannons:molten_steel')
+
+    event.add('kubejs:oil_replaced', 'tfmg:crude_oil')
 
 })
 
