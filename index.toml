@@ -977,6 +977,10 @@ file = "global_packs/required_data/el-tweaks/data/molten_vents/worldgen/placed_f
 hash = "b2dec828fb7b266656b99aed4a24d273f2f093cf15c8b7cd88df28650274f903"
 
 [[files]]
+file = "global_packs/required_data/el-tweaks/data/railways/tags/item/internal/glass/colorless.json"
+hash = "f96c8779715827b4efc13d1a05576b53792414c240d7572ea79922133a32d41d"
+
+[[files]]
 file = "global_packs/required_data/el-tweaks/data/tfmg/physics_block_properties/oil_deposit.json"
 hash = "793f76f0b77c91c958fd2bb5e8ea53be2438c5e17e76f653a4e8330a96621485"
 
