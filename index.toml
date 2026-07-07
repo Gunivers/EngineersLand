@@ -1490,6 +1490,11 @@ hash = "451f3c8a632a8c76e827ee7239244417a9e2e78ef3e480286b9eacd6aeeadd1f"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights-4.8.10+1.21.1.pw.toml"
 hash = "2dff78f3d2f29501486cfd20516ed9e8c3aa6b6fade70580b8139656078ee369"
 metafile = true
@@ -1597,6 +1602,11 @@ metafile = true
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "070e834d2b8eb749a0f547b29bbbeba9aa3b83041cef9b399e8e2e6c5c24e225"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
