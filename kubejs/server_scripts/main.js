@@ -255,26 +255,6 @@ ServerEvents.recipes(event => {
         "type": "create:mixing",
         "ingredients": [
             {
-                "item": "minecraft:calcite"
-            },
-            {
-                "type": "neoforge:single",
-                "amount": 100,
-                "fluid": "create_confectionery:caramel"
-            }
-        ],
-        "results": [
-            {
-                "id": "create:limestone",
-                "count": 2
-            }
-        ]
-    })
-
-    event.custom({
-        "type": "create:mixing",
-        "ingredients": [
-            {
                 "item": "minecraft:stone"
             },
             // {
@@ -306,24 +286,33 @@ ServerEvents.recipes(event => {
     })
 
     event.custom({
-        "type": "create:haunting",
+        "type": "create:crushing",
+        "processingTime": 10,
         "ingredients": [
             {
-                "item": "kubejs:inert_lapis"
+                "item": "kubejs:lapis_clump"
             }
         ],
         "results": [
             {
                 "id": "minecraft:lapis_lazuli",
-                "chance": 0.35,
+                "count": 2,
+                "chance": 1,
             },
             {
-                "chance": 0.25,
-                "id": 'minecraft:prismarine_shard'
+                "id": "minecraft:lapis_lazuli",
+                "count": 4,
+                "chance": 0.2,
             },
             {
-                "chance": 0.25,
-                "id": 'minecraft:prismarine_crystals'
+                "chance": 0.15,
+                "id": 'natures_spirit:calcite_shard',
+                "count": 2,
+            },
+            {
+                "chance": 0.15,
+                "id": 'tfmg:sulfur_dust',
+                "count": 1
             }
         ]
     })
@@ -336,12 +325,20 @@ ServerEvents.recipes(event => {
         "loops": 1,
         "results": [
             {
-                "chance": 0.7,
-                "id": 'kubejs:inert_lapis'
+                "chance": 0.5,
+                "id": 'kubejs:lapis_clump'
             },
             {
-                "chance": 0.3,
-                "id": 'minecraft:light_blue_dye'
+                "chance": 0.2,
+                "id": 'minecraft:blue_dye'
+            },
+            {
+                "chance": 0.15,
+                "id": 'natures_spirit:calcite_shard'
+            },
+            {
+                "chance": 0.15,
+                "id": 'tfmg:sulfur_dust'
             },
         ],
         "sequence": [
@@ -352,7 +349,7 @@ ServerEvents.recipes(event => {
                         "item": "kubejs:forming_lapis"
                     },
                     {
-                        "tag": 'forge:dyes/blue'
+                        "item": 'tfmg:sulfur'
                     }
                 ],
                 "results": [
@@ -362,15 +359,23 @@ ServerEvents.recipes(event => {
                 ]
             },
             {
-                "type": "create:filling",
+                "type": "create:pressing",
                 "ingredients": [
                     {
                         "item": "kubejs:forming_lapis"
-                    },
+                    }
+                ],
+                "results": [
                     {
-                        "type": "neoforge:tag",
-                        "amount": 10,
-                        "tag": "c:experience"
+                        "id": "kubejs:forming_lapis"
+                    }
+                ]
+            },
+            {
+                "type": "create:pressing",
+                "ingredients": [
+                    {
+                        "item": "kubejs:forming_lapis"
                     }
                 ],
                 "results": [

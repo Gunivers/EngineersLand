@@ -20,14 +20,6 @@ StartupEvents.registry('block', event => {
 })
 
 StartupEvents.registry('item', event => {
-  event.create('inert_lapis').displayName("Inert Lapis Lazuli")
   event.create('forming_lapis').displayName("Forming Lapis Lazuli")
-})
-
-BlockEvents.modification(event => {
-    event.modify('tfmg:oil_deposit', block => {
-        block.hasCollision = false;
-        block.destroySpeed = 0
-        block.explosionResistance = 0
-    })
+  event.create('lapis_clump').displayName("Lapis Clump")
 })
