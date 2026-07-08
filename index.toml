@@ -1050,35 +1050,15 @@ hash = "ec23a89019f1cffbffb3beab56f5173b7434cf924a8516ef053cd513439a822c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/forming_lapis.png"
-hash = "35a24b0575b7dc0799f7e95ecff51567f0c70377a70ea0c44c07148b08ea718c"
+hash = "09838fd4df4836e21e665f14bb2cc244d83a40e1970edc4c2c834045c4d321f7"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/inert_lapis.png"
-hash = "a2a35989c087006f8abd03a8e77924dc469711962614d152ea3f01a14a2c9008"
-
-[[files]]
-file = "kubejs/assets/tfmg/models/block/oil_deposit.json"
-hash = "0142680492a188a7ac88ff8aeb7441797b6d2c7cb63bd13298952f00b9b7fd68"
-
-[[files]]
-file = "kubejs/assets/tfmg/textures/block/oil_deposit.png"
-hash = "6a3af930582dc75bd715f13e57ab323d723480dff3a6ab79bae2b00b3ddfb180"
+file = "kubejs/assets/kubejs/textures/item/lapis_clump.png"
+hash = "7bd7d8698335fce226c9f3197882b199c12e53fef42a3b18bcc146467135ed6a"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "2ec9b2343c85c87c9ad5036c4948839b3cf6194925d1157e1945ff21fa8dbf3f"
-
-[[files]]
-file = "kubejs/config/client.json"
-hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
-
-[[files]]
-file = "kubejs/config/common.json"
-hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
-
-[[files]]
-file = "kubejs/config/web_server.json"
-hash = "27a0e9695e8ade39e14d49f10999604d13b10cd8cfe6180a7b0b9a5caf2e1f2a"
 
 [[files]]
 file = "kubejs/data/createnuclear/worldgen/configured_feature/lead_ore.json"
@@ -1086,11 +1066,11 @@ hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "266a52ffa307c0b3ee38c0c637024211af7c577cd9ff3f4337fdbb65218c628d"
+hash = "618706976c2c3ce020d607a318fc99b29378d48fcefce781bb5c6ec105663f87"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "49d388606c78fdc3cc0c3c750c22dc6c6f16f0655c40b1099e61ed7de5f9d646"
+hash = "3889717d53bf2f9caa4c4fc2e0d65f683afe9713c91ebb4df66def71f07f7db9"
 
 [[files]]
 file = "mods/Chunky-NeoForge-1.4.23.pw.toml"
@@ -1305,6 +1285,11 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "6a1ac120ec1ef42efa9be09d5316b8719294be29c44ed62b00ec2dc508227f5d"
+metafile = true
+
+[[files]]
+file = "mods/create-cardan-shafts.pw.toml"
+hash = "b6885c1deebb96c592047334c24851f35c9c3308eb2b58babd091fee6d06e8aa"
 metafile = true
 
 [[files]]
