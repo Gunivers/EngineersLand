@@ -1403,6 +1403,11 @@ hash = "1e1761d7ad9d097a28e5c3707627e02fc89417ce9d766072c0eef2368c0292a2"
 metafile = true
 
 [[files]]
+file = "mods/deployer.pw.toml"
+hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
@@ -1449,6 +1454,11 @@ metafile = true
 [[files]]
 file = "mods/escalated-1.3.1-mc.1.21.1.pw.toml"
 hash = "909b5fe8f045955960f6a8395c384f92240c87d30ab4642d4258f892b78ba8fe"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "635b8380894bc7c050deeb426f3e5947b27bda821a616b0ef6a757ae729e96b8"
 metafile = true
 
 [[files]]
