@@ -1065,6 +1065,10 @@ file = "kubejs/data/createnuclear/worldgen/configured_feature/lead_ore.json"
 hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
 
 [[files]]
+file = "kubejs/data/sable/dimension_physics/default.json"
+hash = "cfa009cb681dfea4991735568addcff59578f42c9da6f57a80a439b54e45742a"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "618706976c2c3ce020d607a318fc99b29378d48fcefce781bb5c6ec105663f87"
 
@@ -1614,6 +1618,11 @@ metafile = true
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
 metafile = true
 
 [[files]]
