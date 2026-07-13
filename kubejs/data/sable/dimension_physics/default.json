@@ -4,12 +4,12 @@
 	{
 		"altitude": -65,
 		"value": 1.5,
-		"slope":-0.003
+		"slope":-0.001
 	},
 	{
-		"altitude": 63,
+		"altitude": 127,
 		"value": 1.0,
-		"slope":-0.004
+		"slope":-0.003
 	},
 	{
 		"altitude": 340,

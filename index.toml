@@ -1066,7 +1066,7 @@ hash = "d2f9b2c263d1fefa26c4e38c1e233749a796f82cfe704867573154c84f8bc911"
 
 [[files]]
 file = "kubejs/data/sable/dimension_physics/default.json"
-hash = "cfa009cb681dfea4991735568addcff59578f42c9da6f57a80a439b54e45742a"
+hash = "b4e869673715897d03692361fa3a989bd8500e65e0161ba22ddfb8491817f990"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
