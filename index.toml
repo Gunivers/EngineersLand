@@ -1,6 +1,78 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/button.png"
+hash = "e548086c76e9647fa6be48c6fd2569c02f4db27dde6011467b33780b5003e24d"
+
+[[files]]
+file = "config/fancymenu/assets/button_hovered.png"
+hash = "e3abc3fc7e81e07eeb85ebb4ac5d50895c81af2de86c846d00c517ecfebedd8b"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "cbc6a699492952a9bfda3612664ff7c377a87bc6a01f14a0b688a480e4297e2a"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "3761228095553ccf36570b7c7abd54a2a70e0f0eef38babd5a0107f23f9b62d8"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "d7ef1ee50266bce9555c6fe1d7eb7d3958ab4cf079843b9636a9b3c60d6cb5f6"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "997c522da8510f6114898dcaf45613bcf1e36d53982bd8fa1d31e463d9786c8e"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "7c53dd9929b59d24aea35f47982df4121faa6c8ace82b484744ad3e4b8e322fb"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
 file = "configureddefaults/config/analogaudio/analogaudio.server.toml"
 hash = "2196e5c019054717840e047a95851efac8ad6a1d0e2687e2c2ec5afd5415aace"
 
@@ -51,38 +123,6 @@ hash = "ffed7532f5a3acc7935a65bb8200f9f71f504d35b730393061a9ff97a08535a8"
 [[files]]
 file = "configureddefaults/config/dynamiccrosshair.json5"
 hash = "412066a69288a585f9a100b4082e3d6c6cbcfd38d383b7c4799ad255fc187727"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/assets/button.png"
-hash = "e548086c76e9647fa6be48c6fd2569c02f4db27dde6011467b33780b5003e24d"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/assets/button_hovered.png"
-hash = "e3abc3fc7e81e07eeb85ebb4ac5d50895c81af2de86c846d00c517ecfebedd8b"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/assets/title.png"
-hash = "cbc6a699492952a9bfda3612664ff7c377a87bc6a01f14a0b688a480e4297e2a"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/customizablemenus.txt"
-hash = "3761228095553ccf36570b7c7abd54a2a70e0f0eef38babd5a0107f23f9b62d8"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/customization/pause_screen_layout.txt"
-hash = "d7ef1ee50266bce9555c6fe1d7eb7d3958ab4cf079843b9636a9b3c60d6cb5f6"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
-hash = "8715f8867b62cb063935cede6de6504a156f4d139f2c65154e7a16d250e1a2b8"
-
-[[files]]
-file = "configureddefaults/config/fancymenu/options.txt"
-hash = "7f3ec1b6bf41a081cb97ef6014539b0bb36d753d5c76082f5c807022ee2aa95e"
 
 [[files]]
 file = "configureddefaults/config/gravestone-server.toml"
