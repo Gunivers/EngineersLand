@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TODO.txt"
-hash = "c46eb786e4518156bd931f4248b052b397eca5cde9749b03a537aafc38dd4b53"
-
-[[files]]
 file = "configureddefaults/config/analogaudio/analogaudio.server.toml"
 hash = "2196e5c019054717840e047a95851efac8ad6a1d0e2687e2c2ec5afd5415aace"
 
