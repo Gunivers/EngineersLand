@@ -1,8 +1,0 @@
-name = "railway"
-filename = "railways-0.3.0-alpha.2+neoforge-mc1.21.1-local.jar"
-side = "both"
-
-[download]
-url = "https://files.ascpial.fr/engineers-land/gunivers/railways-0.3.0-alpha.2%2Bneoforge-mc1.21.1-local.jar"
-hash-format = "sha256"
-hash = "9f6d278d4eef9845b7974b094ec149001e33deedd66a7faa13437bbd0e73c125"

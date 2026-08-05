@@ -1122,13 +1122,8 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
-file = "mods/Create-Encased-1.21.1-1.8.1-ht2.pw.toml"
-hash = "5625c978cee5102013e027c07d7ba815c597799a14cc447dfff63104d76b74be"
-metafile = true
-
-[[files]]
 file = "mods/CreateDragonsPlus-1.11.2b.pw.toml"
-hash = "22774becce6f8f93690337c97df1a5587593afdbdccbda4b83235f6eda172363"
+hash = "41f651ef58b64c10db186480667472969c55bd294b3d29b86a3198b4eba3ea26"
 metafile = true
 
 [[files]]
@@ -1248,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
+hash = "09c4eef0fe467f04601c514ffc6ad805dd09ecb9975fce0f4b9792fbe56f0fde"
 metafile = true
 
 [[files]]
@@ -1348,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "8d3d93487823b5c630123d9796f670114f9ffefc5361fc133a6a30be2f6369ed"
+hash = "20a34adc56d6b046848d0fef326b48ca03db9fa9a0018f85f21300990b3fd023"
 metafile = true
 
 [[files]]
@@ -1357,8 +1352,13 @@ hash = "e08fd421565b35b1d3c0e11bb0d2bdbdae7330938266ca038dd0c876908c8442"
 metafile = true
 
 [[files]]
+file = "mods/create-encased.pw.toml"
+hash = "5625c978cee5102013e027c07d7ba815c597799a14cc447dfff63104d76b74be"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-2.5.0-preview-alpha1.pw.toml"
-hash = "10fbd32697f7a594d3cfa000d082cdc45247481b01c0a786aceb29bc1d7b4309"
+hash = "9cb5022195637c01c0f38e7c1dcef757bc9db80b6b5212585bb58d9d10a4374e"
 metafile = true
 
 [[files]]
@@ -1372,6 +1372,11 @@ hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
 file = "mods/create-the-factory-must-grow.pw.toml"
 hash = "422e4952a469ad54567d867a56ac2682a80322a89af21bbd82321399c62c3556"
 metafile = true
@@ -1379,6 +1384,11 @@ metafile = true
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1422,8 +1432,8 @@ hash = "0bd52ea249d0b7c722dffc6a4d740245ddf41fc1383ca87a1c03d283ea437f02"
 metafile = true
 
 [[files]]
-file = "mods/createnuclear-1.3.2-beta.3-neoforge.pw.toml"
-hash = "2df2ac35f453e0de1182059e55f874139bd76090df63d85a3ef2b8bbd4612e91"
+file = "mods/createnuclear.pw.toml"
+hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
@@ -1497,7 +1507,7 @@ hash = "16444b75296b03c3e9ef46dd05806521c1fa3ce68ccd0618de5124ee9c4d397e"
 
 [[files]]
 file = "mods/endersdelight-1.3.0.pw.toml"
-hash = "7592aaf7212ebf25d056d250b62a9144f51c287cdf98cb54a909fe2bc3e49064"
+hash = "ad4aa1868be968db002620d785226e558f1d7602ffa89ed21f333597ea18d4ee"
 metafile = true
 
 [[files]]
@@ -1567,7 +1577,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.343.pw.toml"
-hash = "003f1ee4a82e53dfd9524f01787c5cddac114ffc8274b0637f185c3fa1e17a32"
+hash = "fb9e6c18b40707a504efcef4454f5e4411cb4e4f5a68aa16e9068e10ca2073bd"
 metafile = true
 
 [[files]]
@@ -1652,7 +1662,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
+hash = "1707b4f1e3df638815211af1336c4d565d7eeae0b629527f1f9cd14eae9c0335"
 metafile = true
 
 [[files]]
@@ -1688,11 +1698,6 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
-metafile = true
-
-[[files]]
-file = "mods/railway.pw.toml"
-hash = "e44f2a3744c76ca5415dba1679454c0655bb52b1e42cd7df8001f52c55401b5a"
 metafile = true
 
 [[files]]
@@ -1757,7 +1762,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.25.64.1919.pw.toml"
-hash = "bd5b1621f7a491051420ede3e62cb10715e9782e8c5df7b8674244b87e2a74a0"
+hash = "f64b024ef92f217927343046b23865dc5a2bbe7df2e2b1c1622c6d4923e099f0"
 metafile = true
 
 [[files]]
@@ -1782,7 +1787,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "dca0f7bb1835c26fe31b7942b99783d8340bd52a23d9fecef7a2c6ceb89fae5d"
+hash = "416a2346e514f4481c138ae83eb9b12df6da53184f924b32239e8e0bc603f188"
 metafile = true
 
 [[files]]
