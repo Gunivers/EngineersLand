@@ -1,0 +1,17 @@
+name = "Sable Dynamic Lights (Create: Dynamic Lights fork)"
+filename = "sable-dynamic-lights-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0d8d1d47078d7bb617b9665a0fb9383bf84aaea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8538633
+project-id = 1584370
+
+[option]
+optional = true
+description = "Lumières dynamiques pour les machines Create et Sable"

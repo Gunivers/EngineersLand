@@ -1387,11 +1387,6 @@ hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
 metafile = true
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
-metafile = true
-
-[[files]]
 file = "mods/create_connected-1.3.2-mc1.21.1.pw.toml"
 hash = "131d043c7035d3a6cb7c4ba074829e9f71f97fc19017ff288e66b8fe20739173"
 metafile = true
@@ -1697,7 +1692,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "9b27c17acf2310341027591972c7da916381b0cd9d78738f705680e5007f5960"
+hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
 metafile = true
 
 [[files]]
@@ -1718,6 +1713,11 @@ metafile = true
 [[files]]
 file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.pw.toml"
 hash = "9107f7f41ea3847118f35001ec3ae60d0de7bcddfe0d4d7513277ddd43090536"
+metafile = true
+
+[[files]]
+file = "mods/sable-dynamic-lights.pw.toml"
+hash = "716fb224866a6c5c8a7f9bcbe2ab2c42274d196c3e7b177477da338cf87e750b"
 metafile = true
 
 [[files]]
