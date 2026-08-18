@@ -1,0 +1,13 @@
+name = "Create: Liquid Blueprints"
+filename = "createliquidblueprints-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fed4cecfed0f0007b8c0536175e1acfa377895ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8646648
+project-id = 1650938

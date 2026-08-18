@@ -1371,8 +1371,18 @@ hash = "58c3ff08e36904b7f28e79ddc63fa83795ab8fb66a5eda92154bb1887f51544e"
 metafile = true
 
 [[files]]
+file = "mods/create-liquid-blueprints.pw.toml"
+hash = "b9dedeb1acc4daec5a187761586b3c018d36b43b32fbe680e1518708af439845"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
 
 [[files]]
