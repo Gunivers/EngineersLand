@@ -1451,8 +1451,8 @@ hash = "c244e718415d6742e8ff9d4bdaaecc45d1f456ec70fb514215f5d617d28a3023"
 metafile = true
 
 [[files]]
-file = "mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.pw.toml"
-hash = "2435b8ef311aa0f8130a6999b0ffb5b6db1ffd2287f4b290aefcf0a89bf7446b"
+file = "mods/createrailwaysnavigator-neoforge-1-21-1-beta-0-9-1-c6.pw.toml"
+hash = "4fd7f7ed04d1c8f87c35e38c18a42fb02817ed7d2a95cf4c6a1b018914cda88d"
 metafile = true
 
 [[files]]
