@@ -1251,6 +1251,11 @@ hash = "80455b28c3010ad153ccabc2998cb445b9854b26b386628243a9c8160b8d7e8e"
 metafile = true
 
 [[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "cbb43eea425a91c64af48e3275d190c630300a735fb3696b35aadcefabf6a570"
+metafile = true
+
+[[files]]
 file = "mods/clear-void.pw.toml"
 hash = "aa346562402cbf2d46cdd6b0cce661ba70bfbb3ca29f35aa8327b291a4e55860"
 metafile = true
@@ -1323,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "2aa588c0760e81c40fae4df29e14643ddb19d40474bf177206a8f687e70b953e"
+metafile = true
+
+[[files]]
+file = "mods/create-bluemap.pw.toml"
+hash = "126a46aca4f5225d6b08094716def2da67aa9b3fe6fd64a05478f7dc0aeb4e63"
 metafile = true
 
 [[files]]
@@ -1476,6 +1486,11 @@ hash = "0e4942ab12e496d3649dc35f1734c20c9fb46e235265f7076a2465eb1b139473"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "61394a707cc61d948dca670b8ccb9b16ee0bcf22b3d60d3501990172ddf4e684"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
@@ -1506,13 +1521,14 @@ hash = "6fb320d3ab2a4b3ea9458c60a1fb1d0ceadebe4cceb17291db83699ec4bc7f3d"
 metafile = true
 
 [[files]]
-file = "mods/enderscape.pw.toml"
-hash = "5c53437a2a927521b266bda97df2677bd052db6c6059a0bfb604c0fd245beec2"
+file = "mods/enderscape-sable-compat.pw.toml"
+hash = "436a4521c2b09fba56411964865634ad0474a88af1e0d4c04cb6392748a3e5ee"
 metafile = true
 
 [[files]]
-file = "mods/enderscapesablecompat-1.0.0.jar"
-hash = "16444b75296b03c3e9ef46dd05806521c1fa3ce68ccd0618de5124ee9c4d397e"
+file = "mods/enderscape.pw.toml"
+hash = "5c53437a2a927521b266bda97df2677bd052db6c6059a0bfb604c0fd245beec2"
+metafile = true
 
 [[files]]
 file = "mods/endersdelight-1.3.0.pw.toml"
