@@ -1487,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/discord-chat-connect.pw.toml"
-hash = "61394a707cc61d948dca670b8ccb9b16ee0bcf22b3d60d3501990172ddf4e684"
+hash = "4a0c9d2fc47c2466ec49e1c2ef5afaf6f6ec7ff207f99380d0b44e2cf15c5e4b"
 metafile = true
 
 [[files]]
