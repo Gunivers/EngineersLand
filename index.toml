@@ -1391,11 +1391,6 @@ hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
 
 [[files]]
-file = "mods/create-the-factory-must-grow.pw.toml"
-hash = "422e4952a469ad54567d867a56ac2682a80322a89af21bbd82321399c62c3556"
-metafile = true
-
-[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
 metafile = true
@@ -1825,8 +1820,8 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
-file = "mods/tfmgfixfuel-1.0.5.pw.toml"
-hash = "0c6b14951ec5ded2ff660f4437790be7eaa2abfa1c44eab94eb41c2dc29c81e0"
+file = "mods/tfmg-community-edition.pw.toml"
+hash = "90ea1fdfbbf419e3c5943c134da0ecd30e3d42fcf124f81134de8db978b124b8"
 metafile = true
 
 [[files]]
