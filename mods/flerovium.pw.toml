@@ -2,6 +2,11 @@ name = "Flerovium"
 filename = "flerovium-neoforge-1.21.1-1.1.3-all.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Moteur de rendu expérimental. Améliore les performances, mais peut être instable."
+
 [download]
 url = "https://cdn.modrinth.com/data/4Rh1Mobu/versions/KmljALvq/flerovium-neoforge-1.21.1-1.1.3-all.jar"
 hash-format = "sha512"

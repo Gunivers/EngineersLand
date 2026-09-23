@@ -1567,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "824238503f5e9cf276b87efed79b15c47b9caee567adae591a7df6b3868d0ab1"
+hash = "834dd9938b55b8fae3ab2fe7385656893666dca620e5852bb90bd8823b307d3e"
 metafile = true
 
 [[files]]
