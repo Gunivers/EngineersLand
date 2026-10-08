@@ -1191,6 +1191,11 @@ hash = "a94f59114a12d261f55ff9c619077428b51c80188cd1098fcc4475779672e5d7"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "f3ab8f1de5571de21ab2247fcfedef8a2bf40dcf0b2ac9e90d39689a20b9e7b4"
+metafile = true
+
+[[files]]
 file = "mods/autojump-fix.pw.toml"
 hash = "724d2006fbe956dc0d7a75e8315d3c153fdc161e4e9cf899a0035c8faa989d37"
 metafile = true
