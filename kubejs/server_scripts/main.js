@@ -214,6 +214,39 @@ ServerEvents.recipes(event => {
     })
 
     event.custom({
+        "type": "tfmg:vat_machine_recipe",
+        "allowed_vat_types": [
+            "tfmg:cast_iron_vat",
+            "tfmg:steel_vat",
+            "tfmg:firebrick_lined_vat"
+        ],
+        "heat_level": 1,
+        "ingredients": [
+            {
+                "type": "neoforge:single",
+                "amount": 1000,
+                "fluid": "tfmg:carbon_dioxide"
+            },
+            {
+                "type": "neoforge:single",
+                "amount": 100,
+                "fluid": "tfmg:molten_plastic"
+            }
+        ],
+        "machines": [
+            "tfmg:mixing"
+        ],
+        "min_size": 1,
+        "results": [
+            {
+                "amount": 10,
+                "id": "minecraft:sponge"
+            }
+        ]
+    })
+
+
+    event.custom({
         "type": "create:filling",
         "ingredients": [
             {
