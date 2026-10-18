@@ -1,0 +1,13 @@
+name = "FormicAPI"
+filename = "formicapi-1.21.1-2.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wun33LcK/versions/9uQCmlUA/formicapi-1.21.1-2.5.1.jar"
+hash-format = "sha512"
+hash = "f5f2065cd17378b9b7d1a3f5eb3cd22965fc51d79aa3625b90c5907d513031ab438cf631a6c6ef149d62d6b86dde51feb99112da9f61cd60712d6170f898069d"
+
+[update]
+[update.modrinth]
+mod-id = "Wun33LcK"
+version = "9uQCmlUA"
