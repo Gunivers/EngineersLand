@@ -1114,7 +1114,7 @@ hash = "fa27dff1de42e4dbd06a1a83ef8020924e84474705abf0275414871218e90a64"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "618706976c2c3ce020d607a318fc99b29378d48fcefce781bb5c6ec105663f87"
+hash = "0022c46395f5ba87b60006d37fe3d2c336d39e375943e4a70038ef5b4546b684"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -1167,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.pw.toml"
-hash = "01b700763fd9d8a5b023f4fa5bdc7cea7259b8e367f6525d73e96b0b68617d6d"
+hash = "80e367d0f7e609b63d810caebf8fd782a362a7d788e2a9ad98872dfd4479f6a1"
 metafile = true
 
 [[files]]
@@ -1197,12 +1197,12 @@ metafile = true
 
 [[files]]
 file = "mods/autojump-fix.pw.toml"
-hash = "724d2006fbe956dc0d7a75e8315d3c153fdc161e4e9cf899a0035c8faa989d37"
+hash = "262ed42059e45e45334c693716813ea3b6c59e839868d74381edb58ed20c9ce0"
 metafile = true
 
 [[files]]
 file = "mods/azimuth-api.pw.toml"
-hash = "3f829f54e19ebb32f23f554e05bd49c005dfc057933e07d0df4f85e7085d314d"
+hash = "a14aa30b199bcc4fb3b382327be7cabb22ce03d8e780f68c3b8307136f0589d7"
 metafile = true
 
 [[files]]
@@ -1212,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.pw.toml"
-hash = "306df0116993d34681a9bdadcb9c51dbe4278042cefd0076ba30b0b7aea930f0"
+hash = "1fdbd9b003f3fd0559e300e5fb025a1368579cd005f31ec69543c7248c085f26"
 metafile = true
 
 [[files]]
@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5ca02772cc6951185af8eb07ded5c7310c80f71498c5c513b1a8d5bd126822a9"
+hash = "cd24426207061dab1565895b9760e1bb91fe72cce9b93f13ae1702a66feec3c4"
 metafile = true
 
 [[files]]
@@ -1317,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
-hash = "8fa0f7462feaaf9cf6316db8878069424f382129d46b0733d419e9c8760e6f4b"
+hash = "90da011b8615c598f810958d9392bc0131d95c02accf78af15aee2782cb6a6ec"
 metafile = true
 
 [[files]]
@@ -1352,7 +1352,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen-2.5.0.pw.toml"
-hash = "0ea17542d252984a694b05916ce6719d9b9d3526ced61953a1962db98edb8834"
+hash = "9e85f96e77a93279f1af3fac1e217903b6af1943b2f14ebd3c7f88e5fe20a00f"
 metafile = true
 
 [[files]]
@@ -1366,13 +1366,18 @@ hash = "bca31a5d08af0377013101cd3e1472a299c0aff0b565c0fa22cb7ba2ea71e3bc"
 metafile = true
 
 [[files]]
+file = "mods/create-crowns.pw.toml"
+hash = "6fcbfbccf3aaafeb821f0170d471525afa425e20506a7bbd3afde556ed5a8847"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "5625c978cee5102013e027c07d7ba815c597799a14cc447dfff63104d76b74be"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-2.5.0-preview-alpha1.pw.toml"
-hash = "510bc74aeb920bd0aa6a5d0cd86fc61d25362916b0a98d69b6e2c805ff57ae5e"
+hash = "299728f9753455fc2fe66f8bf6642f0610eba724cb489701526c4108b0b57222"
 metafile = true
 
 [[files]]
@@ -1461,11 +1466,6 @@ hash = "0bd52ea249d0b7c722dffc6a4d740245ddf41fc1383ca87a1c03d283ea437f02"
 metafile = true
 
 [[files]]
-file = "mods/createnuclear.pw.toml"
-hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
-metafile = true
-
-[[files]]
 file = "mods/createpropulsion-1.1.4.pw.toml"
 hash = "c244e718415d6742e8ff9d4bdaaecc45d1f456ec70fb514215f5d617d28a3023"
 metafile = true
@@ -1502,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
+hash = "7c811f8e9168cabfadc3a37cd995a5faf25962032d86f85e49a30b635da76b76"
 metafile = true
 
 [[files]]
@@ -1517,7 +1517,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "cfbd7a92f45f86525943cb057927def356fe9f579e4ddb48bb24c897233136ca"
+hash = "c64bffb51596c65dbea0a7f12a6bd55ea55ef015dcc27779a87f7092714fe9a9"
 metafile = true
 
 [[files]]
@@ -1547,7 +1547,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "30d6875d934c57d5827f29f35ca77efc72a21df361ad3d578b93e7e137a39654"
+hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
 metafile = true
 
 [[files]]
@@ -1562,7 +1562,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "950114e26a7d1a976a7da8d7d7dc708ea2be16a75a1ae86bb5906274aa311702"
+hash = "88afe523b3bc1fed6bd53b6608f0450e9891c8fe25e786a9893243064f8c7e7f"
 metafile = true
 
 [[files]]
@@ -1572,12 +1572,17 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "834dd9938b55b8fae3ab2fe7385656893666dca620e5852bb90bd8823b307d3e"
+hash = "f30b648e1763d1068d7c4aa37810d9bc2d2b45f5f98ec22149567a9047218241"
 metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
+hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
+metafile = true
+
+[[files]]
+file = "mods/formicapi.pw.toml"
+hash = "aab1d61d3ad44423f0df49fc1644f6b2b0e222f590a6ce6cfc00842bdaeeaa07"
 metafile = true
 
 [[files]]
@@ -1602,7 +1607,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "a90b481b3ce142ec1c515e7f7f1a5ca3a2b9445a0e38222428ff86e8751d02d9"
+hash = "ab17d6e36c0a7503693e512231e86685009d85953e1e8026a31d3241df565f83"
 metafile = true
 
 [[files]]
@@ -1617,7 +1622,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.343.pw.toml"
-hash = "03d60c664c0f3821ef48956cd023ade6b6f206fa9460aafe676e2a4414db517c"
+hash = "ddfd100122d75e2690d3aa609d83657fd58ccce4134db05ca4e4be1fd3ed76c5"
 metafile = true
 
 [[files]]
@@ -1647,27 +1652,27 @@ metafile = true
 
 [[files]]
 file = "mods/letsdo-bakery-neoforge-2.1.6.pw.toml"
-hash = "1dbe2c3bcd79ab66c462c2f564f1497fa6d165cdc9c926a6bc9f3b31cb47eb63"
+hash = "4d1377485317a8b6a36765694b1feb749e19391fc49ff37bc58335ccf21ecb56"
 metafile = true
 
 [[files]]
 file = "mods/letsdo-brewery-neoforge-2.1.9.pw.toml"
-hash = "3078dfa190951928fa98389efe521c9d53ee157ec2f05ef6018618265fd3f049"
+hash = "c339856b87004a8821521dc4afc38a062d348b467a8482107d6bef964d5e875a"
 metafile = true
 
 [[files]]
 file = "mods/letsdo-candlelight-neoforge-2.1.12.pw.toml"
-hash = "c426613779827f697e37a2da0f103e8390c8fa4bf358b98549f3aa244f55c081"
+hash = "d23131cc79f38b0266c226adecc4edb496ed6dd20ac46fe99313014519cca1c9"
 metafile = true
 
 [[files]]
 file = "mods/letsdo-farm_and_charm-neoforge-1.1.22.pw.toml"
-hash = "f7372e3e3ee1173cc1e9a29f7d144c9a06fdac018c57afb886bd7c5a816f26eb"
+hash = "e3bf4ab097fcba429e5c470c22757b6bb484867661bd5c09cd1f3d6a6dacf978"
 metafile = true
 
 [[files]]
 file = "mods/letsdo-vinery-neoforge-1.5.3.pw.toml"
-hash = "acd0550eb585366414e8cfe463820baa90ae173779c4c7a9b951a6299457f1e9"
+hash = "18d54d510f5b9914c435eac0f07219547c488b0a8695202d88ec146de8f601c1"
 metafile = true
 
 [[files]]
@@ -1682,7 +1687,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched-1.7.10+beta4-neoforge-21.1.pw.toml"
-hash = "8276e8bb3e1a310f05007511dae2d30bcf1759d3710143f5b175e3294963e45f"
+hash = "926846b60bc040b88ceb677d9ae1427ee91a0f744a7a4a6628448aed3962abec"
 metafile = true
 
 [[files]]
@@ -1702,27 +1707,27 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7bc20264f0874457c08927af84def007cd5ed2caeee9d736cab1f92d8ea8d6ec"
+hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
 metafile = true
 
 [[files]]
 file = "mods/mru-1.0.19+LTS+1.21.1+neoforge.pw.toml"
-hash = "db4414b5e86e530650614895264a15a672d0a5aef143c6863dfe06ffe6db5bb1"
+hash = "d0b0bf48de1d8ffadcb1b27f2a20a01871347556b8095a8835629e4734bb52cf"
 metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
+hash = "f6b2113f1ac06f51e25fde938c1b307d14899f6c50017b685faab208f5577f1d"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "188500c93c2f057ae0053890e72e409e2c4ddaedfcb34bdfecb87b6299b5717d"
+hash = "dc7e58c97d56d9764f578eb0afe6464e47701e7d72b5bd6a3d37e868bc0924bc"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims-neoforge-1.21.1-0.27.5.pw.toml"
-hash = "0a64c6164ab6b3ef365d533bc8fb393effa9c36aabebbc794c5896f3ba22768f"
+hash = "29fad5730fafa89cbcc76f413da71da378e4911ef0305463d77904ea8c7ff1f9"
 metafile = true
 
 [[files]]
@@ -1747,7 +1752,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "4ab28e65ee3b87dded266514e4f243c8e71ee6d23aec812b12ec706f5a7bddc6"
+hash = "2a4f123fab3b78243abc248cc22c83a496b5d0c189d54b64fdfd52fdcaf42a56"
 metafile = true
 
 [[files]]
@@ -1767,7 +1772,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-neoforge-1.21.1-2.0.3.pw.toml"
-hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
+hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
 metafile = true
 
 [[files]]
@@ -1807,12 +1812,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.25.64.1919.pw.toml"
-hash = "f044fcf1bfdcab9954527bc0480f63f098af8bc9ece6bbb4b6ec51c0ebcd69fa"
+hash = "7afa60882d8a46d4056b78f8edb196d63030bae9e42e5e24f27ea29f85c38879"
 metafile = true
 
 [[files]]
 file = "mods/sophisticatedcore-1.21.1-1.4.60.2044.pw.toml"
-hash = "a04320776d44c50eabe8c18ab36ac63b882addd0f5219032ba6890583c6bcb15"
+hash = "18bdd43fe0edcd3b4264bce5b810b47cb628b746b656a98ec7ea7122d1484bb8"
 metafile = true
 
 [[files]]
@@ -1822,7 +1827,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "d099d5a97b3a48e6b571425551c4e782e7a90a7e45070df0f4f4e578ef033b02"
+hash = "525721054a6788dfeb36276dee55100414b265a60b9bce655612930ad3705d15"
 metafile = true
 
 [[files]]
@@ -1832,12 +1837,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
+hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
 metafile = true
 
 [[files]]
 file = "mods/talkingheads.pw.toml"
-hash = "f15a25306ed1fcc9722f5b5ff9cbe0516609ef7ddb77460e5e866a864f386353"
+hash = "315274c09f1745e2908f38df716d6e2e55cf8f6f6b0770fbf3aa5bdebd8105b3"
 metafile = true
 
 [[files]]
@@ -1852,7 +1857,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
-hash = "90ea1fdfbbf419e3c5943c134da0ecd30e3d42fcf124f81134de8db978b124b8"
+hash = "bf5f39820df498c7631fa699aeb2b6f7b1ba1ae5055a33f92878f187fde25dc4"
 metafile = true
 
 [[files]]
@@ -1867,7 +1872,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
-hash = "be517604d9f197eb9ccc0685aeb8443831d87a2b3387db45be3832ff0422b763"
+hash = "8db8eb77a8914404cfb2cbc7ad0e225ee6d563e7fa332423f954e9b1623e7bf6"
 metafile = true
 
 [[files]]
@@ -1877,12 +1882,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.1.0.pw.toml"
-hash = "7eee3ca767f8209467278c97525b9b1d172322ae3923bd5409c1b13e982b7e99"
+hash = "bd7649542867a6700e62d553727a7b6c95bd3e690390110fbb057847d938f9a6"
 metafile = true
 
 [[files]]
 file = "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.pw.toml"
-hash = "31f8ee68b69e9a64011f103970d03dde69c5b193a42c88f967d4b5c81b4468ad"
+hash = "32f69038b08e652d95c667d7dee1218614704e55e1eac7c36b4201628e84106e"
 metafile = true
 
 [[files]]

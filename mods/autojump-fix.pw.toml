@@ -1,13 +1,13 @@
 name = "AutoJump Fix"
-filename = "autojump-fix-1.0.5+1.21.1+neoforge.jar"
+filename = "autojump-fix-1.0.6+1.21.1+neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fQ0k8T9c/versions/Vjfll8ND/autojump-fix-1.0.5%2B1.21.1%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/fQ0k8T9c/versions/8IYRLrVI/autojump-fix-1.0.6%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "fd95f653e24a104e048ddfa6a7cdc9d169a95a68376c6c017ed9fc00d0f22c46d1945e140a861900b8292a67fba9d6201ea0f0a75099cd8fb842745dbd1ab937"
+hash = "05f713ace1607455ec7dba0c9da9a19e344501f117889b7416c4846de4a3c2d1429b40eaec1f5393bb50c8eab6d06cd0f9f892dd657b8961cc3b7a19d789affb"
 
 [update]
 [update.modrinth]
 mod-id = "fQ0k8T9c"
-version = "Vjfll8ND"
+version = "8IYRLrVI"
